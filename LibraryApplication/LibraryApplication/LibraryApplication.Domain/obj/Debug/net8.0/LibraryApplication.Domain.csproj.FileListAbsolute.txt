@@ -1,0 +1,13 @@
+C:\Users\spase\Downloads\LibraryApplication\LibraryApplication\LibraryApplication.Domain\bin\Debug\net8.0\LibraryApplication.Domain.deps.json
+C:\Users\spase\Downloads\LibraryApplication\LibraryApplication\LibraryApplication.Domain\bin\Debug\net8.0\LibraryApplication.Domain.dll
+C:\Users\spase\Downloads\LibraryApplication\LibraryApplication\LibraryApplication.Domain\bin\Debug\net8.0\LibraryApplication.Domain.pdb
+C:\Users\spase\Downloads\LibraryApplication\LibraryApplication\LibraryApplication.Domain\obj\Debug\net8.0\LibraryApplication.Domain.csproj.AssemblyReference.cache
+C:\Users\spase\Downloads\LibraryApplication\LibraryApplication\LibraryApplication.Domain\obj\Debug\net8.0\LibraryApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spase\Downloads\LibraryApplication\LibraryApplication\LibraryApplication.Domain\obj\Debug\net8.0\LibraryApplication.Domain.AssemblyInfoInputs.cache
+C:\Users\spase\Downloads\LibraryApplication\LibraryApplication\LibraryApplication.Domain\obj\Debug\net8.0\LibraryApplication.Domain.AssemblyInfo.cs
+C:\Users\spase\Downloads\LibraryApplication\LibraryApplication\LibraryApplication.Domain\obj\Debug\net8.0\LibraryApplication.Domain.csproj.CoreCompileInputs.cache
+C:\Users\spase\Downloads\LibraryApplication\LibraryApplication\LibraryApplication.Domain\obj\Debug\net8.0\LibraryApplication.Domain.sourcelink.json
+C:\Users\spase\Downloads\LibraryApplication\LibraryApplication\LibraryApplication.Domain\obj\Debug\net8.0\LibraryApplication.Domain.dll
+C:\Users\spase\Downloads\LibraryApplication\LibraryApplication\LibraryApplication.Domain\obj\Debug\net8.0\refint\LibraryApplication.Domain.dll
+C:\Users\spase\Downloads\LibraryApplication\LibraryApplication\LibraryApplication.Domain\obj\Debug\net8.0\LibraryApplication.Domain.pdb
+C:\Users\spase\Downloads\LibraryApplication\LibraryApplication\LibraryApplication.Domain\obj\Debug\net8.0\ref\LibraryApplication.Domain.dll

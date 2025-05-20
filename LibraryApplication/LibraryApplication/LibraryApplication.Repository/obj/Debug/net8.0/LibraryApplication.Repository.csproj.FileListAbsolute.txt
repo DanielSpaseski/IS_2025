@@ -1,0 +1,16 @@
+C:\Users\spase\Downloads\LibraryApplication\LibraryApplication\LibraryApplication.Repository\bin\Debug\net8.0\LibraryApplication.Repository.deps.json
+C:\Users\spase\Downloads\LibraryApplication\LibraryApplication\LibraryApplication.Repository\bin\Debug\net8.0\LibraryApplication.Repository.dll
+C:\Users\spase\Downloads\LibraryApplication\LibraryApplication\LibraryApplication.Repository\bin\Debug\net8.0\LibraryApplication.Repository.pdb
+C:\Users\spase\Downloads\LibraryApplication\LibraryApplication\LibraryApplication.Repository\bin\Debug\net8.0\LibraryApplication.Domain.dll
+C:\Users\spase\Downloads\LibraryApplication\LibraryApplication\LibraryApplication.Repository\bin\Debug\net8.0\LibraryApplication.Domain.pdb
+C:\Users\spase\Downloads\LibraryApplication\LibraryApplication\LibraryApplication.Repository\obj\Debug\net8.0\LibraryApplication.Repository.csproj.AssemblyReference.cache
+C:\Users\spase\Downloads\LibraryApplication\LibraryApplication\LibraryApplication.Repository\obj\Debug\net8.0\LibraryApplication.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spase\Downloads\LibraryApplication\LibraryApplication\LibraryApplication.Repository\obj\Debug\net8.0\LibraryApplication.Repository.AssemblyInfoInputs.cache
+C:\Users\spase\Downloads\LibraryApplication\LibraryApplication\LibraryApplication.Repository\obj\Debug\net8.0\LibraryApplication.Repository.AssemblyInfo.cs
+C:\Users\spase\Downloads\LibraryApplication\LibraryApplication\LibraryApplication.Repository\obj\Debug\net8.0\LibraryApplication.Repository.csproj.CoreCompileInputs.cache
+C:\Users\spase\Downloads\LibraryApplication\LibraryApplication\LibraryApplication.Repository\obj\Debug\net8.0\LibraryApplication.Repository.sourcelink.json
+C:\Users\spase\Downloads\LibraryApplication\LibraryApplication\LibraryApplication.Repository\obj\Debug\net8.0\LibraryA.3294422F.Up2Date
+C:\Users\spase\Downloads\LibraryApplication\LibraryApplication\LibraryApplication.Repository\obj\Debug\net8.0\LibraryApplication.Repository.dll
+C:\Users\spase\Downloads\LibraryApplication\LibraryApplication\LibraryApplication.Repository\obj\Debug\net8.0\refint\LibraryApplication.Repository.dll
+C:\Users\spase\Downloads\LibraryApplication\LibraryApplication\LibraryApplication.Repository\obj\Debug\net8.0\LibraryApplication.Repository.pdb
+C:\Users\spase\Downloads\LibraryApplication\LibraryApplication\LibraryApplication.Repository\obj\Debug\net8.0\ref\LibraryApplication.Repository.dll

@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\spase\\Downloads\\LibraryApplication\\LibraryApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0F6C28-71B0-4E3A-BE79-E378A4738055}|LibraryApplication.Web\\LibraryApplication.Web.csproj|c:\\users\\spase\\downloads\\libraryapplication\\libraryapplication\\libraryapplication.web\\views\\librarysections\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E0F6C28-71B0-4E3A-BE79-E378A4738055}|LibraryApplication.Web\\LibraryApplication.Web.csproj|solutionrelative:libraryapplication.web\\views\\librarysections\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0F6C28-71B0-4E3A-BE79-E378A4738055}|LibraryApplication.Web\\LibraryApplication.Web.csproj|c:\\users\\spase\\downloads\\libraryapplication\\libraryapplication\\libraryapplication.web\\views\\bookcategories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E0F6C28-71B0-4E3A-BE79-E378A4738055}|LibraryApplication.Web\\LibraryApplication.Web.csproj|solutionrelative:libraryapplication.web\\views\\bookcategories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67DB6E1-F35A-4AD7-A7C3-D60FE8B87BD0}|LibraryApplication.Domain\\LibraryApplication.Domain.csproj|c:\\users\\spase\\downloads\\libraryapplication\\libraryapplication\\libraryapplication.domain\\domainmodels\\librarysection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67DB6E1-F35A-4AD7-A7C3-D60FE8B87BD0}|LibraryApplication.Domain\\LibraryApplication.Domain.csproj|solutionrelative:libraryapplication.domain\\domainmodels\\librarysection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67DB6E1-F35A-4AD7-A7C3-D60FE8B87BD0}|LibraryApplication.Domain\\LibraryApplication.Domain.csproj|c:\\users\\spase\\downloads\\libraryapplication\\libraryapplication\\libraryapplication.domain\\domainmodels\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67DB6E1-F35A-4AD7-A7C3-D60FE8B87BD0}|LibraryApplication.Domain\\LibraryApplication.Domain.csproj|solutionrelative:libraryapplication.domain\\domainmodels\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67DB6E1-F35A-4AD7-A7C3-D60FE8B87BD0}|LibraryApplication.Domain\\LibraryApplication.Domain.csproj|c:\\users\\spase\\downloads\\libraryapplication\\libraryapplication\\libraryapplication.domain\\domainmodels\\bookinsection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67DB6E1-F35A-4AD7-A7C3-D60FE8B87BD0}|LibraryApplication.Domain\\LibraryApplication.Domain.csproj|solutionrelative:libraryapplication.domain\\domainmodels\\bookinsection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6D16D25-F6EA-43D9-9746-E39244C3B2E6}|LibraryApplication.Service\\LibraryApplication.Service.csproj|c:\\users\\spase\\downloads\\libraryapplication\\libraryapplication\\libraryapplication.service\\implementation\\bookcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6D16D25-F6EA-43D9-9746-E39244C3B2E6}|LibraryApplication.Service\\LibraryApplication.Service.csproj|solutionrelative:libraryapplication.service\\implementation\\bookcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0F6C28-71B0-4E3A-BE79-E378A4738055}|LibraryApplication.Web\\LibraryApplication.Web.csproj|c:\\users\\spase\\downloads\\libraryapplication\\libraryapplication\\libraryapplication.web\\controllers\\bookcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E0F6C28-71B0-4E3A-BE79-E378A4738055}|LibraryApplication.Web\\LibraryApplication.Web.csproj|solutionrelative:libraryapplication.web\\controllers\\bookcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB22747-1514-4EEA-88D2-FB23B7E0B802}|LibraryApplication.Repository\\LibraryApplication.Repository.csproj|c:\\users\\spase\\downloads\\libraryapplication\\libraryapplication\\libraryapplication.repository\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB22747-1514-4EEA-88D2-FB23B7E0B802}|LibraryApplication.Repository\\LibraryApplication.Repository.csproj|solutionrelative:libraryapplication.repository\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0F6C28-71B0-4E3A-BE79-E378A4738055}|LibraryApplication.Web\\LibraryApplication.Web.csproj|c:\\users\\spase\\downloads\\libraryapplication\\libraryapplication\\libraryapplication.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E0F6C28-71B0-4E3A-BE79-E378A4738055}|LibraryApplication.Web\\LibraryApplication.Web.csproj|solutionrelative:libraryapplication.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB22747-1514-4EEA-88D2-FB23B7E0B802}|LibraryApplication.Repository\\LibraryApplication.Repository.csproj|c:\\users\\spase\\downloads\\libraryapplication\\libraryapplication\\libraryapplication.repository\\data\\migrations\\20250520122536_addlibrarysectionstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB22747-1514-4EEA-88D2-FB23B7E0B802}|LibraryApplication.Repository\\LibraryApplication.Repository.csproj|solutionrelative:libraryapplication.repository\\data\\migrations\\20250520122536_addlibrarysectionstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 285,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibrarySection.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\Downloads\\LibraryApplication\\LibraryApplication\\LibraryApplication.Domain\\DomainModels\\LibrarySection.cs",
+              "RelativeDocumentMoniker": "LibraryApplication.Domain\\DomainModels\\LibrarySection.cs",
+              "ToolTip": "C:\\Users\\spase\\Downloads\\LibraryApplication\\LibraryApplication\\LibraryApplication.Domain\\DomainModels\\LibrarySection.cs",
+              "RelativeToolTip": "LibraryApplication.Domain\\DomainModels\\LibrarySection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T12:15:25.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\spase\\Downloads\\LibraryApplication\\LibraryApplication\\LibraryApplication.Web\\Views\\LibrarySections\\Details.cshtml",
+              "RelativeDocumentMoniker": "LibraryApplication.Web\\Views\\LibrarySections\\Details.cshtml",
+              "ToolTip": "C:\\Users\\spase\\Downloads\\LibraryApplication\\LibraryApplication\\LibraryApplication.Web\\Views\\LibrarySections\\Details.cshtml",
+              "RelativeToolTip": "LibraryApplication.Web\\Views\\LibrarySections\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T11:31:35.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookCategory.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\Downloads\\LibraryApplication\\LibraryApplication\\LibraryApplication.Domain\\DomainModels\\BookCategory.cs",
+              "RelativeDocumentMoniker": "LibraryApplication.Domain\\DomainModels\\BookCategory.cs",
+              "ToolTip": "C:\\Users\\spase\\Downloads\\LibraryApplication\\LibraryApplication\\LibraryApplication.Domain\\DomainModels\\BookCategory.cs",
+              "RelativeToolTip": "LibraryApplication.Domain\\DomainModels\\BookCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T12:20:17.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookInSection.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\Downloads\\LibraryApplication\\LibraryApplication\\LibraryApplication.Domain\\DomainModels\\BookInSection.cs",
+              "RelativeDocumentMoniker": "LibraryApplication.Domain\\DomainModels\\BookInSection.cs",
+              "ToolTip": "C:\\Users\\spase\\Downloads\\LibraryApplication\\LibraryApplication\\LibraryApplication.Domain\\DomainModels\\BookInSection.cs",
+              "RelativeToolTip": "LibraryApplication.Domain\\DomainModels\\BookInSection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T12:27:52.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\spase\\Downloads\\LibraryApplication\\LibraryApplication\\LibraryApplication.Web\\Views\\BookCategories\\Index.cshtml",
+              "RelativeDocumentMoniker": "LibraryApplication.Web\\Views\\BookCategories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\spase\\Downloads\\LibraryApplication\\LibraryApplication\\LibraryApplication.Web\\Views\\BookCategories\\Index.cshtml",
+              "RelativeToolTip": "LibraryApplication.Web\\Views\\BookCategories\\Index.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T12:12:13.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\Downloads\\LibraryApplication\\LibraryApplication\\LibraryApplication.Web\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryApplication.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\spase\\Downloads\\LibraryApplication\\LibraryApplication\\LibraryApplication.Web\\Program.cs",
+              "RelativeToolTip": "LibraryApplication.Web\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T12:16:01.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250520122536_AddLibrarySectionsTable.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\Downloads\\LibraryApplication\\LibraryApplication\\LibraryApplication.Repository\\Data\\Migrations\\20250520122536_AddLibrarySectionsTable.cs",
+              "RelativeDocumentMoniker": "LibraryApplication.Repository\\Data\\Migrations\\20250520122536_AddLibrarySectionsTable.cs",
+              "ToolTip": "C:\\Users\\spase\\Downloads\\LibraryApplication\\LibraryApplication\\LibraryApplication.Repository\\Data\\Migrations\\20250520122536_AddLibrarySectionsTable.cs",
+              "RelativeToolTip": "LibraryApplication.Repository\\Data\\Migrations\\20250520122536_AddLibrarySectionsTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T12:25:36.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookCategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\Downloads\\LibraryApplication\\LibraryApplication\\LibraryApplication.Web\\Controllers\\BookCategoriesController.cs",
+              "RelativeDocumentMoniker": "LibraryApplication.Web\\Controllers\\BookCategoriesController.cs",
+              "ToolTip": "C:\\Users\\spase\\Downloads\\LibraryApplication\\LibraryApplication\\LibraryApplication.Web\\Controllers\\BookCategoriesController.cs",
+              "RelativeToolTip": "LibraryApplication.Web\\Controllers\\BookCategoriesController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAuwEQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T11:23:03.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\Downloads\\LibraryApplication\\LibraryApplication\\LibraryApplication.Repository\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "LibraryApplication.Repository\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\spase\\Downloads\\LibraryApplication\\LibraryApplication\\LibraryApplication.Repository\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "LibraryApplication.Repository\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T12:23:59.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookCategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\Downloads\\LibraryApplication\\LibraryApplication\\LibraryApplication.Service\\Implementation\\BookCategoryService.cs",
+              "RelativeDocumentMoniker": "LibraryApplication.Service\\Implementation\\BookCategoryService.cs",
+              "ToolTip": "C:\\Users\\spase\\Downloads\\LibraryApplication\\LibraryApplication\\LibraryApplication.Service\\Implementation\\BookCategoryService.cs",
+              "RelativeToolTip": "LibraryApplication.Service\\Implementation\\BookCategoryService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwE4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T12:05:57.228Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 831,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 115,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+﻿@model LibraryApplication.Domain.DomainModels.LibrarySection
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+<h4>LibrarySection</h4>
+
+<table class="table">
+    <!-- TODO: Create Table for LibrarySection -->
+    <!-- Look at the table from any Index page for help -->
+    <!-- Iterate throught Model.BooksInSections -->
+    <!-- Display: Book Title, Book Publication Date, Book Number of Samples -->
+    <thead>
+        <tr>
+            <th>Book Title</th>
+            <th>Publication Date</th>
+            <th>Number of Samples</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var bookInSection in Model.BookInSections)
+        {
+            <tr>
+                <td>@bookInSection.Book.Title</td>
+                <td>@bookInSection.Book.PublicationDate</td>
+                <td>@bookInSection.Book.NumSamples</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<!-- TODO: Display Total Number of Samples -->
+<div>
+    <p>Total Samples: @Model.BookInSections.Sum(x => x.Book.NumSamples) </p>
+</div>

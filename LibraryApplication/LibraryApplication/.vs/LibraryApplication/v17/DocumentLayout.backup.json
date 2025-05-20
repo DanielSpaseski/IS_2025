@@ -1,0 +1,575 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0F6C28-71B0-4E3A-BE79-E378A4738055}|LibraryApplication.Web\\LibraryApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\libraryapplication\\libraryapplication\\libraryapplication.web\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E0F6C28-71B0-4E3A-BE79-E378A4738055}|LibraryApplication.Web\\LibraryApplication.Web.csproj|solutionrelative:libraryapplication.web\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6D16D25-F6EA-43D9-9746-E39244C3B2E6}|LibraryApplication.Service\\LibraryApplication.Service.csproj|c:\\users\\sfili\\desktop\\starters\\libraryapplication\\libraryapplication\\libraryapplication.service\\implementation\\librarysectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6D16D25-F6EA-43D9-9746-E39244C3B2E6}|LibraryApplication.Service\\LibraryApplication.Service.csproj|solutionrelative:libraryapplication.service\\implementation\\librarysectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6D16D25-F6EA-43D9-9746-E39244C3B2E6}|LibraryApplication.Service\\LibraryApplication.Service.csproj|c:\\users\\sfili\\desktop\\starters\\libraryapplication\\libraryapplication\\libraryapplication.service\\implementation\\bookcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6D16D25-F6EA-43D9-9746-E39244C3B2E6}|LibraryApplication.Service\\LibraryApplication.Service.csproj|solutionrelative:libraryapplication.service\\implementation\\bookcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0F6C28-71B0-4E3A-BE79-E378A4738055}|LibraryApplication.Web\\LibraryApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\libraryapplication\\libraryapplication\\libraryapplication.web\\controllers\\borrowingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E0F6C28-71B0-4E3A-BE79-E378A4738055}|LibraryApplication.Web\\LibraryApplication.Web.csproj|solutionrelative:libraryapplication.web\\controllers\\borrowingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0F6C28-71B0-4E3A-BE79-E378A4738055}|LibraryApplication.Web\\LibraryApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\libraryapplication\\libraryapplication\\libraryapplication.web\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E0F6C28-71B0-4E3A-BE79-E378A4738055}|LibraryApplication.Web\\LibraryApplication.Web.csproj|solutionrelative:libraryapplication.web\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0F6C28-71B0-4E3A-BE79-E378A4738055}|LibraryApplication.Web\\LibraryApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\libraryapplication\\libraryapplication\\libraryapplication.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E0F6C28-71B0-4E3A-BE79-E378A4738055}|LibraryApplication.Web\\LibraryApplication.Web.csproj|solutionrelative:libraryapplication.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0F6C28-71B0-4E3A-BE79-E378A4738055}|LibraryApplication.Web\\LibraryApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\libraryapplication\\libraryapplication\\libraryapplication.web\\controllers\\librarysectionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E0F6C28-71B0-4E3A-BE79-E378A4738055}|LibraryApplication.Web\\LibraryApplication.Web.csproj|solutionrelative:libraryapplication.web\\controllers\\librarysectionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0F6C28-71B0-4E3A-BE79-E378A4738055}|LibraryApplication.Web\\LibraryApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\libraryapplication\\libraryapplication\\libraryapplication.web\\controllers\\bookcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E0F6C28-71B0-4E3A-BE79-E378A4738055}|LibraryApplication.Web\\LibraryApplication.Web.csproj|solutionrelative:libraryapplication.web\\controllers\\bookcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0F6C28-71B0-4E3A-BE79-E378A4738055}|LibraryApplication.Web\\LibraryApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\libraryapplication\\libraryapplication\\libraryapplication.web\\views\\librarysections\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E0F6C28-71B0-4E3A-BE79-E378A4738055}|LibraryApplication.Web\\LibraryApplication.Web.csproj|solutionrelative:libraryapplication.web\\views\\librarysections\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0F6C28-71B0-4E3A-BE79-E378A4738055}|LibraryApplication.Web\\LibraryApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\libraryapplication\\libraryapplication\\libraryapplication.web\\views\\bookcategories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E0F6C28-71B0-4E3A-BE79-E378A4738055}|LibraryApplication.Web\\LibraryApplication.Web.csproj|solutionrelative:libraryapplication.web\\views\\bookcategories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0F6C28-71B0-4E3A-BE79-E378A4738055}|LibraryApplication.Web\\LibraryApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\libraryapplication\\libraryapplication\\libraryapplication.web\\views\\bookcategories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E0F6C28-71B0-4E3A-BE79-E378A4738055}|LibraryApplication.Web\\LibraryApplication.Web.csproj|solutionrelative:libraryapplication.web\\views\\bookcategories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB22747-1514-4EEA-88D2-FB23B7E0B802}|LibraryApplication.Repository\\LibraryApplication.Repository.csproj|c:\\users\\sfili\\desktop\\starters\\libraryapplication\\libraryapplication\\libraryapplication.repository\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB22747-1514-4EEA-88D2-FB23B7E0B802}|LibraryApplication.Repository\\LibraryApplication.Repository.csproj|solutionrelative:libraryapplication.repository\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67DB6E1-F35A-4AD7-A7C3-D60FE8B87BD0}|LibraryApplication.Domain\\LibraryApplication.Domain.csproj|c:\\users\\sfili\\desktop\\starters\\libraryapplication\\libraryapplication\\libraryapplication.domain\\domainmodels\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67DB6E1-F35A-4AD7-A7C3-D60FE8B87BD0}|LibraryApplication.Domain\\LibraryApplication.Domain.csproj|solutionrelative:libraryapplication.domain\\domainmodels\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67DB6E1-F35A-4AD7-A7C3-D60FE8B87BD0}|LibraryApplication.Domain\\LibraryApplication.Domain.csproj|c:\\users\\sfili\\desktop\\starters\\libraryapplication\\libraryapplication\\libraryapplication.domain\\domainmodels\\bookinsection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67DB6E1-F35A-4AD7-A7C3-D60FE8B87BD0}|LibraryApplication.Domain\\LibraryApplication.Domain.csproj|solutionrelative:libraryapplication.domain\\domainmodels\\bookinsection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67DB6E1-F35A-4AD7-A7C3-D60FE8B87BD0}|LibraryApplication.Domain\\LibraryApplication.Domain.csproj|c:\\users\\sfili\\desktop\\starters\\libraryapplication\\libraryapplication\\libraryapplication.domain\\domainmodels\\librarysection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67DB6E1-F35A-4AD7-A7C3-D60FE8B87BD0}|LibraryApplication.Domain\\LibraryApplication.Domain.csproj|solutionrelative:libraryapplication.domain\\domainmodels\\librarysection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6D16D25-F6EA-43D9-9746-E39244C3B2E6}|LibraryApplication.Service\\LibraryApplication.Service.csproj|c:\\users\\sfili\\desktop\\starters\\libraryapplication\\libraryapplication\\libraryapplication.service\\interface\\ilibrarysectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6D16D25-F6EA-43D9-9746-E39244C3B2E6}|LibraryApplication.Service\\LibraryApplication.Service.csproj|solutionrelative:libraryapplication.service\\interface\\ilibrarysectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6D16D25-F6EA-43D9-9746-E39244C3B2E6}|LibraryApplication.Service\\LibraryApplication.Service.csproj|c:\\users\\sfili\\desktop\\starters\\libraryapplication\\libraryapplication\\libraryapplication.service\\interface\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6D16D25-F6EA-43D9-9746-E39244C3B2E6}|LibraryApplication.Service\\LibraryApplication.Service.csproj|solutionrelative:libraryapplication.service\\interface\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6D16D25-F6EA-43D9-9746-E39244C3B2E6}|LibraryApplication.Service\\LibraryApplication.Service.csproj|c:\\users\\sfili\\desktop\\starters\\libraryapplication\\libraryapplication\\libraryapplication.service\\interface\\iborrowingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6D16D25-F6EA-43D9-9746-E39244C3B2E6}|LibraryApplication.Service\\LibraryApplication.Service.csproj|solutionrelative:libraryapplication.service\\interface\\iborrowingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6D16D25-F6EA-43D9-9746-E39244C3B2E6}|LibraryApplication.Service\\LibraryApplication.Service.csproj|c:\\users\\sfili\\desktop\\starters\\libraryapplication\\libraryapplication\\libraryapplication.service\\interface\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6D16D25-F6EA-43D9-9746-E39244C3B2E6}|LibraryApplication.Service\\LibraryApplication.Service.csproj|solutionrelative:libraryapplication.service\\interface\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6D16D25-F6EA-43D9-9746-E39244C3B2E6}|LibraryApplication.Service\\LibraryApplication.Service.csproj|c:\\users\\sfili\\desktop\\starters\\libraryapplication\\libraryapplication\\libraryapplication.service\\interface\\ibookcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6D16D25-F6EA-43D9-9746-E39244C3B2E6}|LibraryApplication.Service\\LibraryApplication.Service.csproj|solutionrelative:libraryapplication.service\\interface\\ibookcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6D16D25-F6EA-43D9-9746-E39244C3B2E6}|LibraryApplication.Service\\LibraryApplication.Service.csproj|c:\\users\\sfili\\desktop\\starters\\libraryapplication\\libraryapplication\\libraryapplication.service\\implementation\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6D16D25-F6EA-43D9-9746-E39244C3B2E6}|LibraryApplication.Service\\LibraryApplication.Service.csproj|solutionrelative:libraryapplication.service\\implementation\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6D16D25-F6EA-43D9-9746-E39244C3B2E6}|LibraryApplication.Service\\LibraryApplication.Service.csproj|c:\\users\\sfili\\desktop\\starters\\libraryapplication\\libraryapplication\\libraryapplication.service\\implementation\\borrowingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6D16D25-F6EA-43D9-9746-E39244C3B2E6}|LibraryApplication.Service\\LibraryApplication.Service.csproj|solutionrelative:libraryapplication.service\\implementation\\borrowingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6D16D25-F6EA-43D9-9746-E39244C3B2E6}|LibraryApplication.Service\\LibraryApplication.Service.csproj|c:\\users\\sfili\\desktop\\starters\\libraryapplication\\libraryapplication\\libraryapplication.service\\implementation\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6D16D25-F6EA-43D9-9746-E39244C3B2E6}|LibraryApplication.Service\\LibraryApplication.Service.csproj|solutionrelative:libraryapplication.service\\implementation\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB22747-1514-4EEA-88D2-FB23B7E0B802}|LibraryApplication.Repository\\LibraryApplication.Repository.csproj|c:\\users\\sfili\\desktop\\starters\\libraryapplication\\libraryapplication\\libraryapplication.repository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB22747-1514-4EEA-88D2-FB23B7E0B802}|LibraryApplication.Repository\\LibraryApplication.Repository.csproj|solutionrelative:libraryapplication.repository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB22747-1514-4EEA-88D2-FB23B7E0B802}|LibraryApplication.Repository\\LibraryApplication.Repository.csproj|c:\\users\\sfili\\desktop\\starters\\libraryapplication\\libraryapplication\\libraryapplication.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB22747-1514-4EEA-88D2-FB23B7E0B802}|LibraryApplication.Repository\\LibraryApplication.Repository.csproj|solutionrelative:libraryapplication.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67DB6E1-F35A-4AD7-A7C3-D60FE8B87BD0}|LibraryApplication.Domain\\LibraryApplication.Domain.csproj|c:\\users\\sfili\\desktop\\starters\\libraryapplication\\libraryapplication\\libraryapplication.domain\\identitymodels\\libraryapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67DB6E1-F35A-4AD7-A7C3-D60FE8B87BD0}|LibraryApplication.Domain\\LibraryApplication.Domain.csproj|solutionrelative:libraryapplication.domain\\identitymodels\\libraryapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67DB6E1-F35A-4AD7-A7C3-D60FE8B87BD0}|LibraryApplication.Domain\\LibraryApplication.Domain.csproj|c:\\users\\sfili\\desktop\\starters\\libraryapplication\\libraryapplication\\libraryapplication.domain\\domainmodels\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67DB6E1-F35A-4AD7-A7C3-D60FE8B87BD0}|LibraryApplication.Domain\\LibraryApplication.Domain.csproj|solutionrelative:libraryapplication.domain\\domainmodels\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67DB6E1-F35A-4AD7-A7C3-D60FE8B87BD0}|LibraryApplication.Domain\\LibraryApplication.Domain.csproj|c:\\users\\sfili\\desktop\\starters\\libraryapplication\\libraryapplication\\libraryapplication.domain\\domainmodels\\borrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67DB6E1-F35A-4AD7-A7C3-D60FE8B87BD0}|LibraryApplication.Domain\\LibraryApplication.Domain.csproj|solutionrelative:libraryapplication.domain\\domainmodels\\borrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67DB6E1-F35A-4AD7-A7C3-D60FE8B87BD0}|LibraryApplication.Domain\\LibraryApplication.Domain.csproj|c:\\users\\sfili\\desktop\\starters\\libraryapplication\\libraryapplication\\libraryapplication.domain\\domainmodels\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67DB6E1-F35A-4AD7-A7C3-D60FE8B87BD0}|LibraryApplication.Domain\\LibraryApplication.Domain.csproj|solutionrelative:libraryapplication.domain\\domainmodels\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB22747-1514-4EEA-88D2-FB23B7E0B802}|LibraryApplication.Repository\\LibraryApplication.Repository.csproj|c:\\users\\sfili\\desktop\\starters\\libraryapplication\\libraryapplication\\libraryapplication.repository\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB22747-1514-4EEA-88D2-FB23B7E0B802}|LibraryApplication.Repository\\LibraryApplication.Repository.csproj|solutionrelative:libraryapplication.repository\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0F6C28-71B0-4E3A-BE79-E378A4738055}|LibraryApplication.Web\\LibraryApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\libraryapplication\\libraryapplication\\libraryapplication.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E0F6C28-71B0-4E3A-BE79-E378A4738055}|LibraryApplication.Web\\LibraryApplication.Web.csproj|solutionrelative:libraryapplication.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 285,
+          "SelectedChildIndex": 33,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Web\\Views\\BookCategories\\Create.cshtml",
+              "RelativeDocumentMoniker": "LibraryApplication.Web\\Views\\BookCategories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Web\\Views\\BookCategories\\Create.cshtml",
+              "RelativeToolTip": "LibraryApplication.Web\\Views\\BookCategories\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T14:33:36.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Repository\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "LibraryApplication.Repository\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Repository\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "LibraryApplication.Repository\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAANYAAAAAAAAAAAAswOYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:31:36.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LibraryApplication.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LibraryApplication.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:28:18.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Web\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "LibraryApplication.Web\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Web\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "LibraryApplication.Web\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAwwEoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:28:16.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BorrowingsController.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Web\\Controllers\\BorrowingsController.cs",
+              "RelativeDocumentMoniker": "LibraryApplication.Web\\Controllers\\BorrowingsController.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Web\\Controllers\\BorrowingsController.cs",
+              "RelativeToolTip": "LibraryApplication.Web\\Controllers\\BorrowingsController.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAqwBQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:28:13.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Service\\Interface\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "LibraryApplication.Service\\Interface\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Service\\Interface\\ICategoryService.cs",
+              "RelativeToolTip": "LibraryApplication.Service\\Interface\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:27:50.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IBorrowingService.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Service\\Interface\\IBorrowingService.cs",
+              "RelativeDocumentMoniker": "LibraryApplication.Service\\Interface\\IBorrowingService.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Service\\Interface\\IBorrowingService.cs",
+              "RelativeToolTip": "LibraryApplication.Service\\Interface\\IBorrowingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:27:46.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BorrowingService.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Service\\Implementation\\BorrowingService.cs",
+              "RelativeDocumentMoniker": "LibraryApplication.Service\\Implementation\\BorrowingService.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Service\\Implementation\\BorrowingService.cs",
+              "RelativeToolTip": "LibraryApplication.Service\\Implementation\\BorrowingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:27:28.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Repository\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "LibraryApplication.Repository\\Interface\\IRepository.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Repository\\Interface\\IRepository.cs",
+              "RelativeToolTip": "LibraryApplication.Repository\\Interface\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:27:13.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Repository\\Implementation\\Repository.cs",
+              "RelativeDocumentMoniker": "LibraryApplication.Repository\\Implementation\\Repository.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Repository\\Implementation\\Repository.cs",
+              "RelativeToolTip": "LibraryApplication.Repository\\Implementation\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:27:05.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LibraryApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Domain\\IdentityModels\\LibraryApplicationUser.cs",
+              "RelativeDocumentMoniker": "LibraryApplication.Domain\\IdentityModels\\LibraryApplicationUser.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Domain\\IdentityModels\\LibraryApplicationUser.cs",
+              "RelativeToolTip": "LibraryApplication.Domain\\IdentityModels\\LibraryApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:26:54.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LibrarySection.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Domain\\DomainModels\\LibrarySection.cs",
+              "RelativeDocumentMoniker": "LibraryApplication.Domain\\DomainModels\\LibrarySection.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Domain\\DomainModels\\LibrarySection.cs",
+              "RelativeToolTip": "LibraryApplication.Domain\\DomainModels\\LibrarySection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:26:51.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Domain\\DomainModels\\Category.cs",
+              "RelativeDocumentMoniker": "LibraryApplication.Domain\\DomainModels\\Category.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Domain\\DomainModels\\Category.cs",
+              "RelativeToolTip": "LibraryApplication.Domain\\DomainModels\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:26:50.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Borrowing.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Domain\\DomainModels\\Borrowing.cs",
+              "RelativeDocumentMoniker": "LibraryApplication.Domain\\DomainModels\\Borrowing.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Domain\\DomainModels\\Borrowing.cs",
+              "RelativeToolTip": "LibraryApplication.Domain\\DomainModels\\Borrowing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:26:49.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookInSection.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Domain\\DomainModels\\BookInSection.cs",
+              "RelativeDocumentMoniker": "LibraryApplication.Domain\\DomainModels\\BookInSection.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Domain\\DomainModels\\BookInSection.cs",
+              "RelativeToolTip": "LibraryApplication.Domain\\DomainModels\\BookInSection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:26:47.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BookCategory.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Domain\\DomainModels\\BookCategory.cs",
+              "RelativeDocumentMoniker": "LibraryApplication.Domain\\DomainModels\\BookCategory.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Domain\\DomainModels\\BookCategory.cs",
+              "RelativeToolTip": "LibraryApplication.Domain\\DomainModels\\BookCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:26:46.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Domain\\DomainModels\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryApplication.Domain\\DomainModels\\Book.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Domain\\DomainModels\\Book.cs",
+              "RelativeToolTip": "LibraryApplication.Domain\\DomainModels\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:26:43.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Repository\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "LibraryApplication.Repository\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Repository\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "LibraryApplication.Repository\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:08:52.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Web\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryApplication.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Web\\Program.cs",
+              "RelativeToolTip": "LibraryApplication.Web\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:08:29.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Service\\Implementation\\CategoryService.cs",
+              "RelativeDocumentMoniker": "LibraryApplication.Service\\Implementation\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Service\\Implementation\\CategoryService.cs",
+              "RelativeToolTip": "LibraryApplication.Service\\Implementation\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:05:52.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibrarySectionService.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Service\\Implementation\\LibrarySectionService.cs",
+              "RelativeDocumentMoniker": "LibraryApplication.Service\\Implementation\\LibrarySectionService.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Service\\Implementation\\LibrarySectionService.cs",
+              "RelativeToolTip": "LibraryApplication.Service\\Implementation\\LibrarySectionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:05:09.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ILibrarySectionService.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Service\\Interface\\ILibrarySectionService.cs",
+              "RelativeDocumentMoniker": "LibraryApplication.Service\\Interface\\ILibrarySectionService.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Service\\Interface\\ILibrarySectionService.cs",
+              "RelativeToolTip": "LibraryApplication.Service\\Interface\\ILibrarySectionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:03:49.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Web\\Views\\LibrarySections\\Details.cshtml",
+              "RelativeDocumentMoniker": "LibraryApplication.Web\\Views\\LibrarySections\\Details.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Web\\Views\\LibrarySections\\Details.cshtml",
+              "RelativeToolTip": "LibraryApplication.Web\\Views\\LibrarySections\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T14:03:02.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibrarySectionsController.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Web\\Controllers\\LibrarySectionsController.cs",
+              "RelativeDocumentMoniker": "LibraryApplication.Web\\Controllers\\LibrarySectionsController.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Web\\Controllers\\LibrarySectionsController.cs",
+              "RelativeToolTip": "LibraryApplication.Web\\Controllers\\LibrarySectionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:02:28.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Service\\Implementation\\BookService.cs",
+              "RelativeDocumentMoniker": "LibraryApplication.Service\\Implementation\\BookService.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Service\\Implementation\\BookService.cs",
+              "RelativeToolTip": "LibraryApplication.Service\\Implementation\\BookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T13:58:17.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Service\\Interface\\IBookService.cs",
+              "RelativeDocumentMoniker": "LibraryApplication.Service\\Interface\\IBookService.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Service\\Interface\\IBookService.cs",
+              "RelativeToolTip": "LibraryApplication.Service\\Interface\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T13:57:04.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IBookCategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Service\\Interface\\IBookCategoryService.cs",
+              "RelativeDocumentMoniker": "LibraryApplication.Service\\Interface\\IBookCategoryService.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Service\\Interface\\IBookCategoryService.cs",
+              "RelativeToolTip": "LibraryApplication.Service\\Interface\\IBookCategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T13:57:00.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookCategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Service\\Implementation\\BookCategoryService.cs",
+              "RelativeDocumentMoniker": "LibraryApplication.Service\\Implementation\\BookCategoryService.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Service\\Implementation\\BookCategoryService.cs",
+              "RelativeToolTip": "LibraryApplication.Service\\Implementation\\BookCategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T13:56:57.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Web\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "LibraryApplication.Web\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Web\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "LibraryApplication.Web\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAcwEcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T13:56:00.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookCategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Web\\Controllers\\BookCategoriesController.cs",
+              "RelativeDocumentMoniker": "LibraryApplication.Web\\Controllers\\BookCategoriesController.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Web\\Controllers\\BookCategoriesController.cs",
+              "RelativeToolTip": "LibraryApplication.Web\\Controllers\\BookCategoriesController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T13:55:52.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Web\\Views\\BookCategories\\Index.cshtml",
+              "RelativeDocumentMoniker": "LibraryApplication.Web\\Views\\BookCategories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\LibraryApplication\\LibraryApplication\\LibraryApplication.Web\\Views\\BookCategories\\Index.cshtml",
+              "RelativeToolTip": "LibraryApplication.Web\\Views\\BookCategories\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T13:54:27.864Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 831,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 115,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
