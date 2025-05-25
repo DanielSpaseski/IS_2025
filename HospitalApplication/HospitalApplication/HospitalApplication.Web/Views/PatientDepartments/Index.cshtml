@@ -1,0 +1,57 @@
+﻿@model IEnumerable<HospitalApplication.Domain.DomainModels.PatientDepartment>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <!-- TODO: Add Create Transfer Request button -->
+    <form asp-action="CreateTransferRequest" method="post">
+        <button type="submit" class="btn btn-primary">Create Transfer Request</button>
+    </form>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Patient)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Department)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateAssigned)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Owner)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Patient.FirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Department.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateAssigned)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Owner.FirstName)
+            </td>
+            <td>
+                    <!-- TODO: Add Delete Button -->
+                  <form asp-action="Delete" asp-route-id="@item.Id" method="post">
+                      <button type="submit" class="btn btn-danger">Delete</button>
+                  </form>  
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

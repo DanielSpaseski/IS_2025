@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IS_2025\\HospitalApplication (4)\\HospitalApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62DDCF8A-C6C3-46A0-AE20-3144FCA5AEBE}|HospitalApplication.Web\\HospitalApplication.Web.csproj|d:\\is_2025\\hospitalapplication (4)\\hospitalapplication\\hospitalapplication.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DDCF8A-C6C3-46A0-AE20-3144FCA5AEBE}|HospitalApplication.Web\\HospitalApplication.Web.csproj|solutionrelative:hospitalapplication.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AC94ED-F145-4EFE-9F38-8EE70DB2042E}|HospitalApplication.Domain\\HospitalApplication.Domain.csproj|d:\\is_2025\\hospitalapplication (4)\\hospitalapplication\\hospitalapplication.domain\\domainmodels\\transferrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93AC94ED-F145-4EFE-9F38-8EE70DB2042E}|HospitalApplication.Domain\\HospitalApplication.Domain.csproj|solutionrelative:hospitalapplication.domain\\domainmodels\\transferrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74358B31-6318-4D4C-8294-CC4189A9BD1C}|HospitalApplication.Repository\\HospitalApplication.Repository.csproj|d:\\is_2025\\hospitalapplication (4)\\hospitalapplication\\hospitalapplication.repository\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74358B31-6318-4D4C-8294-CC4189A9BD1C}|HospitalApplication.Repository\\HospitalApplication.Repository.csproj|solutionrelative:hospitalapplication.repository\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IS_2025\\HospitalApplication (4)\\HospitalApplication\\HospitalApplication.Repository\\Data\\Migrations\\20250524191123_AddPatientTransferRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HospitalApplication.Repository\\Data\\Migrations\\20250524191123_AddPatientTransferRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AC94ED-F145-4EFE-9F38-8EE70DB2042E}|HospitalApplication.Domain\\HospitalApplication.Domain.csproj|d:\\is_2025\\hospitalapplication (4)\\hospitalapplication\\hospitalapplication.domain\\domainmodels\\patienttransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93AC94ED-F145-4EFE-9F38-8EE70DB2042E}|HospitalApplication.Domain\\HospitalApplication.Domain.csproj|solutionrelative:hospitalapplication.domain\\domainmodels\\patienttransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IS_2025\\HospitalApplication (4)\\HospitalApplication\\HospitalApplication.Repository\\Data\\Migrations\\20250524190841_AddPatientTransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HospitalApplication.Repository\\Data\\Migrations\\20250524190841_AddPatientTransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74358B31-6318-4D4C-8294-CC4189A9BD1C}|HospitalApplication.Repository\\HospitalApplication.Repository.csproj|d:\\is_2025\\hospitalapplication (4)\\hospitalapplication\\hospitalapplication.repository\\data\\migrations\\20250415215348_models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74358B31-6318-4D4C-8294-CC4189A9BD1C}|HospitalApplication.Repository\\HospitalApplication.Repository.csproj|solutionrelative:hospitalapplication.repository\\data\\migrations\\20250415215348_models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IS_2025\\HospitalApplication (4)\\HospitalApplication\\HospitalApplication.Repository\\Data\\Migrations\\20250524190431_add-models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HospitalApplication.Repository\\Data\\Migrations\\20250524190431_add-models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E277E7A3-6168-475C-9898-FFEBB548CC76}|HospitalApplication.Service\\HospitalApplication.Service.csproj|d:\\is_2025\\hospitalapplication (4)\\hospitalapplication\\hospitalapplication.service\\implementation\\patientdepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E277E7A3-6168-475C-9898-FFEBB548CC76}|HospitalApplication.Service\\HospitalApplication.Service.csproj|solutionrelative:hospitalapplication.service\\implementation\\patientdepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E277E7A3-6168-475C-9898-FFEBB548CC76}|HospitalApplication.Service\\HospitalApplication.Service.csproj|d:\\is_2025\\hospitalapplication (4)\\hospitalapplication\\hospitalapplication.service\\implementation\\transferrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E277E7A3-6168-475C-9898-FFEBB548CC76}|HospitalApplication.Service\\HospitalApplication.Service.csproj|solutionrelative:hospitalapplication.service\\implementation\\transferrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DDCF8A-C6C3-46A0-AE20-3144FCA5AEBE}|HospitalApplication.Web\\HospitalApplication.Web.csproj|d:\\is_2025\\hospitalapplication (4)\\hospitalapplication\\hospitalapplication.web\\controllers\\patientdepartmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DDCF8A-C6C3-46A0-AE20-3144FCA5AEBE}|HospitalApplication.Web\\HospitalApplication.Web.csproj|solutionrelative:hospitalapplication.web\\controllers\\patientdepartmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250524191123_AddPatientTransferRequest.cs",
+              "DocumentMoniker": "D:\\IS_2025\\HospitalApplication (4)\\HospitalApplication\\HospitalApplication.Repository\\Data\\Migrations\\20250524191123_AddPatientTransferRequest.cs",
+              "RelativeDocumentMoniker": "HospitalApplication.Repository\\Data\\Migrations\\20250524191123_AddPatientTransferRequest.cs",
+              "ToolTip": "D:\\IS_2025\\HospitalApplication (4)\\HospitalApplication\\HospitalApplication.Repository\\Data\\Migrations\\20250524191123_AddPatientTransferRequest.cs",
+              "RelativeToolTip": "HospitalApplication.Repository\\Data\\Migrations\\20250524191123_AddPatientTransferRequest.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T19:11:23.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransferRequest.cs",
+              "DocumentMoniker": "D:\\IS_2025\\HospitalApplication (4)\\HospitalApplication\\HospitalApplication.Domain\\DomainModels\\TransferRequest.cs",
+              "RelativeDocumentMoniker": "HospitalApplication.Domain\\DomainModels\\TransferRequest.cs",
+              "ToolTip": "D:\\IS_2025\\HospitalApplication (4)\\HospitalApplication\\HospitalApplication.Domain\\DomainModels\\TransferRequest.cs",
+              "RelativeToolTip": "HospitalApplication.Domain\\DomainModels\\TransferRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T18:53:11.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\IS_2025\\HospitalApplication (4)\\HospitalApplication\\HospitalApplication.Repository\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "HospitalApplication.Repository\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\IS_2025\\HospitalApplication (4)\\HospitalApplication\\HospitalApplication.Repository\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "HospitalApplication.Repository\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T19:07:42.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IS_2025\\HospitalApplication (4)\\HospitalApplication\\HospitalApplication.Web\\Program.cs",
+              "RelativeDocumentMoniker": "HospitalApplication.Web\\Program.cs",
+              "ToolTip": "D:\\IS_2025\\HospitalApplication (4)\\HospitalApplication\\HospitalApplication.Web\\Program.cs",
+              "RelativeToolTip": "HospitalApplication.Web\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T18:51:46.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250524190841_AddPatientTransfer.cs",
+              "DocumentMoniker": "D:\\IS_2025\\HospitalApplication (4)\\HospitalApplication\\HospitalApplication.Repository\\Data\\Migrations\\20250524190841_AddPatientTransfer.cs",
+              "RelativeDocumentMoniker": "HospitalApplication.Repository\\Data\\Migrations\\20250524190841_AddPatientTransfer.cs",
+              "ToolTip": "D:\\IS_2025\\HospitalApplication (4)\\HospitalApplication\\HospitalApplication.Repository\\Data\\Migrations\\20250524190841_AddPatientTransfer.cs",
+              "RelativeToolTip": "HospitalApplication.Repository\\Data\\Migrations\\20250524190841_AddPatientTransfer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T19:08:41.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientTransfer.cs",
+              "DocumentMoniker": "D:\\IS_2025\\HospitalApplication (4)\\HospitalApplication\\HospitalApplication.Domain\\DomainModels\\PatientTransfer.cs",
+              "RelativeDocumentMoniker": "HospitalApplication.Domain\\DomainModels\\PatientTransfer.cs",
+              "ToolTip": "D:\\IS_2025\\HospitalApplication (4)\\HospitalApplication\\HospitalApplication.Domain\\DomainModels\\PatientTransfer.cs",
+              "RelativeToolTip": "HospitalApplication.Domain\\DomainModels\\PatientTransfer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T18:53:15.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250415215348_Models.cs",
+              "DocumentMoniker": "D:\\IS_2025\\HospitalApplication (4)\\HospitalApplication\\HospitalApplication.Repository\\Data\\Migrations\\20250415215348_Models.cs",
+              "RelativeDocumentMoniker": "HospitalApplication.Repository\\Data\\Migrations\\20250415215348_Models.cs",
+              "ToolTip": "D:\\IS_2025\\HospitalApplication (4)\\HospitalApplication\\HospitalApplication.Repository\\Data\\Migrations\\20250415215348_Models.cs",
+              "RelativeToolTip": "HospitalApplication.Repository\\Data\\Migrations\\20250415215348_Models.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T19:04:43.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250524190431_add-models.cs",
+              "DocumentMoniker": "D:\\IS_2025\\HospitalApplication (4)\\HospitalApplication\\HospitalApplication.Repository\\Data\\Migrations\\20250524190431_add-models.cs",
+              "RelativeDocumentMoniker": "HospitalApplication.Repository\\Data\\Migrations\\20250524190431_add-models.cs",
+              "ToolTip": "D:\\IS_2025\\HospitalApplication (4)\\HospitalApplication\\HospitalApplication.Repository\\Data\\Migrations\\20250524190431_add-models.cs",
+              "RelativeToolTip": "HospitalApplication.Repository\\Data\\Migrations\\20250524190431_add-models.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T19:04:31.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PatientDepartmentService.cs",
+              "DocumentMoniker": "D:\\IS_2025\\HospitalApplication (4)\\HospitalApplication\\HospitalApplication.Service\\Implementation\\PatientDepartmentService.cs",
+              "RelativeDocumentMoniker": "HospitalApplication.Service\\Implementation\\PatientDepartmentService.cs",
+              "ToolTip": "D:\\IS_2025\\HospitalApplication (4)\\HospitalApplication\\HospitalApplication.Service\\Implementation\\PatientDepartmentService.cs",
+              "RelativeToolTip": "HospitalApplication.Service\\Implementation\\PatientDepartmentService.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T18:54:22.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TransferRequestService.cs",
+              "DocumentMoniker": "D:\\IS_2025\\HospitalApplication (4)\\HospitalApplication\\HospitalApplication.Service\\Implementation\\TransferRequestService.cs",
+              "RelativeDocumentMoniker": "HospitalApplication.Service\\Implementation\\TransferRequestService.cs",
+              "ToolTip": "D:\\IS_2025\\HospitalApplication (4)\\HospitalApplication\\HospitalApplication.Service\\Implementation\\TransferRequestService.cs",
+              "RelativeToolTip": "HospitalApplication.Service\\Implementation\\TransferRequestService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T18:54:14.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PatientDepartmentsController.cs",
+              "DocumentMoniker": "D:\\IS_2025\\HospitalApplication (4)\\HospitalApplication\\HospitalApplication.Web\\Controllers\\PatientDepartmentsController.cs",
+              "RelativeDocumentMoniker": "HospitalApplication.Web\\Controllers\\PatientDepartmentsController.cs",
+              "ToolTip": "D:\\IS_2025\\HospitalApplication (4)\\HospitalApplication\\HospitalApplication.Web\\Controllers\\PatientDepartmentsController.cs",
+              "RelativeToolTip": "HospitalApplication.Web\\Controllers\\PatientDepartmentsController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAjwEYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T18:53:43.846Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 831,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 115,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

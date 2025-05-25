@@ -1,0 +1,13 @@
+C:\Users\spase\Downloads\EventsApplication\EventsApplication\EventsApplication.Domain\bin\Debug\net8.0\EventsApplication.Domain.deps.json
+C:\Users\spase\Downloads\EventsApplication\EventsApplication\EventsApplication.Domain\bin\Debug\net8.0\EventsApplication.Domain.dll
+C:\Users\spase\Downloads\EventsApplication\EventsApplication\EventsApplication.Domain\bin\Debug\net8.0\EventsApplication.Domain.pdb
+C:\Users\spase\Downloads\EventsApplication\EventsApplication\EventsApplication.Domain\obj\Debug\net8.0\EventsApplication.Domain.csproj.AssemblyReference.cache
+C:\Users\spase\Downloads\EventsApplication\EventsApplication\EventsApplication.Domain\obj\Debug\net8.0\EventsApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spase\Downloads\EventsApplication\EventsApplication\EventsApplication.Domain\obj\Debug\net8.0\EventsApplication.Domain.AssemblyInfoInputs.cache
+C:\Users\spase\Downloads\EventsApplication\EventsApplication\EventsApplication.Domain\obj\Debug\net8.0\EventsApplication.Domain.AssemblyInfo.cs
+C:\Users\spase\Downloads\EventsApplication\EventsApplication\EventsApplication.Domain\obj\Debug\net8.0\EventsApplication.Domain.csproj.CoreCompileInputs.cache
+C:\Users\spase\Downloads\EventsApplication\EventsApplication\EventsApplication.Domain\obj\Debug\net8.0\EventsApplication.Domain.sourcelink.json
+C:\Users\spase\Downloads\EventsApplication\EventsApplication\EventsApplication.Domain\obj\Debug\net8.0\EventsApplication.Domain.dll
+C:\Users\spase\Downloads\EventsApplication\EventsApplication\EventsApplication.Domain\obj\Debug\net8.0\refint\EventsApplication.Domain.dll
+C:\Users\spase\Downloads\EventsApplication\EventsApplication\EventsApplication.Domain\obj\Debug\net8.0\EventsApplication.Domain.pdb
+C:\Users\spase\Downloads\EventsApplication\EventsApplication\EventsApplication.Domain\obj\Debug\net8.0\ref\EventsApplication.Domain.dll

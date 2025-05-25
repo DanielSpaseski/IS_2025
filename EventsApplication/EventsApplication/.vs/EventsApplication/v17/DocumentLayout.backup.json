@@ -1,0 +1,905 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF33F77D-82C2-43B0-8C04-29A6736232E3}|EventsApplication.Service\\EventsApplication.Service.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.service\\implementation\\registrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF33F77D-82C2-43B0-8C04-29A6736232E3}|EventsApplication.Service\\EventsApplication.Service.csproj|solutionrelative:eventsapplication.service\\implementation\\registrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F7EF52-246C-4A7F-878D-C0CD3688BC60}|EventsApplication.Web\\EventsApplication.Web.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.web\\controllers\\schedulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F7EF52-246C-4A7F-878D-C0CD3688BC60}|EventsApplication.Web\\EventsApplication.Web.csproj|solutionrelative:eventsapplication.web\\controllers\\schedulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F7EF52-246C-4A7F-878D-C0CD3688BC60}|EventsApplication.Web\\EventsApplication.Web.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.web\\controllers\\speakerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F7EF52-246C-4A7F-878D-C0CD3688BC60}|EventsApplication.Web\\EventsApplication.Web.csproj|solutionrelative:eventsapplication.web\\controllers\\speakerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F7EF52-246C-4A7F-878D-C0CD3688BC60}|EventsApplication.Web\\EventsApplication.Web.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.web\\controllers\\registrationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F7EF52-246C-4A7F-878D-C0CD3688BC60}|EventsApplication.Web\\EventsApplication.Web.csproj|solutionrelative:eventsapplication.web\\controllers\\registrationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F7EF52-246C-4A7F-878D-C0CD3688BC60}|EventsApplication.Web\\EventsApplication.Web.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F7EF52-246C-4A7F-878D-C0CD3688BC60}|EventsApplication.Web\\EventsApplication.Web.csproj|solutionrelative:eventsapplication.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F7EF52-246C-4A7F-878D-C0CD3688BC60}|EventsApplication.Web\\EventsApplication.Web.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.web\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F7EF52-246C-4A7F-878D-C0CD3688BC60}|EventsApplication.Web\\EventsApplication.Web.csproj|solutionrelative:eventsapplication.web\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F7EF52-246C-4A7F-878D-C0CD3688BC60}|EventsApplication.Web\\EventsApplication.Web.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.web\\controllers\\attendeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F7EF52-246C-4A7F-878D-C0CD3688BC60}|EventsApplication.Web\\EventsApplication.Web.csproj|solutionrelative:eventsapplication.web\\controllers\\attendeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F7EF52-246C-4A7F-878D-C0CD3688BC60}|EventsApplication.Web\\EventsApplication.Web.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59F7EF52-246C-4A7F-878D-C0CD3688BC60}|EventsApplication.Web\\EventsApplication.Web.csproj|solutionrelative:eventsapplication.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F7EF52-246C-4A7F-878D-C0CD3688BC60}|EventsApplication.Web\\EventsApplication.Web.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.web\\views\\schedules\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59F7EF52-246C-4A7F-878D-C0CD3688BC60}|EventsApplication.Web\\EventsApplication.Web.csproj|solutionrelative:eventsapplication.web\\views\\schedules\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F7EF52-246C-4A7F-878D-C0CD3688BC60}|EventsApplication.Web\\EventsApplication.Web.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.web\\views\\speakers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59F7EF52-246C-4A7F-878D-C0CD3688BC60}|EventsApplication.Web\\EventsApplication.Web.csproj|solutionrelative:eventsapplication.web\\views\\speakers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F7EF52-246C-4A7F-878D-C0CD3688BC60}|EventsApplication.Web\\EventsApplication.Web.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.web\\views\\registrations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59F7EF52-246C-4A7F-878D-C0CD3688BC60}|EventsApplication.Web\\EventsApplication.Web.csproj|solutionrelative:eventsapplication.web\\views\\registrations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F7EF52-246C-4A7F-878D-C0CD3688BC60}|EventsApplication.Web\\EventsApplication.Web.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.web\\views\\registrations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59F7EF52-246C-4A7F-878D-C0CD3688BC60}|EventsApplication.Web\\EventsApplication.Web.csproj|solutionrelative:eventsapplication.web\\views\\registrations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1865975F-59C0-4BE8-8C88-B9C733C5788F}|EventsApplication.Domain\\EventsApplication.Domain.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.domain\\identitymodels\\eventsapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1865975F-59C0-4BE8-8C88-B9C733C5788F}|EventsApplication.Domain\\EventsApplication.Domain.csproj|solutionrelative:eventsapplication.domain\\identitymodels\\eventsapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1865975F-59C0-4BE8-8C88-B9C733C5788F}|EventsApplication.Domain\\EventsApplication.Domain.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.domain\\domainmodels\\attendee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1865975F-59C0-4BE8-8C88-B9C733C5788F}|EventsApplication.Domain\\EventsApplication.Domain.csproj|solutionrelative:eventsapplication.domain\\domainmodels\\attendee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F7EF52-246C-4A7F-878D-C0CD3688BC60}|EventsApplication.Web\\EventsApplication.Web.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.web\\views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59F7EF52-246C-4A7F-878D-C0CD3688BC60}|EventsApplication.Web\\EventsApplication.Web.csproj|solutionrelative:eventsapplication.web\\views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F7EF52-246C-4A7F-878D-C0CD3688BC60}|EventsApplication.Web\\EventsApplication.Web.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.web\\views\\events\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59F7EF52-246C-4A7F-878D-C0CD3688BC60}|EventsApplication.Web\\EventsApplication.Web.csproj|solutionrelative:eventsapplication.web\\views\\events\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F7EF52-246C-4A7F-878D-C0CD3688BC60}|EventsApplication.Web\\EventsApplication.Web.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.web\\views\\events\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59F7EF52-246C-4A7F-878D-C0CD3688BC60}|EventsApplication.Web\\EventsApplication.Web.csproj|solutionrelative:eventsapplication.web\\views\\events\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F7EF52-246C-4A7F-878D-C0CD3688BC60}|EventsApplication.Web\\EventsApplication.Web.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.web\\views\\events\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59F7EF52-246C-4A7F-878D-C0CD3688BC60}|EventsApplication.Web\\EventsApplication.Web.csproj|solutionrelative:eventsapplication.web\\views\\events\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F7EF52-246C-4A7F-878D-C0CD3688BC60}|EventsApplication.Web\\EventsApplication.Web.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.web\\views\\events\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59F7EF52-246C-4A7F-878D-C0CD3688BC60}|EventsApplication.Web\\EventsApplication.Web.csproj|solutionrelative:eventsapplication.web\\views\\events\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F7EF52-246C-4A7F-878D-C0CD3688BC60}|EventsApplication.Web\\EventsApplication.Web.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.web\\views\\attendees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59F7EF52-246C-4A7F-878D-C0CD3688BC60}|EventsApplication.Web\\EventsApplication.Web.csproj|solutionrelative:eventsapplication.web\\views\\attendees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F7EF52-246C-4A7F-878D-C0CD3688BC60}|EventsApplication.Web\\EventsApplication.Web.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F7EF52-246C-4A7F-878D-C0CD3688BC60}|EventsApplication.Web\\EventsApplication.Web.csproj|solutionrelative:eventsapplication.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF33F77D-82C2-43B0-8C04-29A6736232E3}|EventsApplication.Service\\EventsApplication.Service.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.service\\implementation\\speakerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF33F77D-82C2-43B0-8C04-29A6736232E3}|EventsApplication.Service\\EventsApplication.Service.csproj|solutionrelative:eventsapplication.service\\implementation\\speakerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF33F77D-82C2-43B0-8C04-29A6736232E3}|EventsApplication.Service\\EventsApplication.Service.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.service\\implementation\\scheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF33F77D-82C2-43B0-8C04-29A6736232E3}|EventsApplication.Service\\EventsApplication.Service.csproj|solutionrelative:eventsapplication.service\\implementation\\scheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF33F77D-82C2-43B0-8C04-29A6736232E3}|EventsApplication.Service\\EventsApplication.Service.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.service\\implementation\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF33F77D-82C2-43B0-8C04-29A6736232E3}|EventsApplication.Service\\EventsApplication.Service.csproj|solutionrelative:eventsapplication.service\\implementation\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF33F77D-82C2-43B0-8C04-29A6736232E3}|EventsApplication.Service\\EventsApplication.Service.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.service\\implementation\\attendeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF33F77D-82C2-43B0-8C04-29A6736232E3}|EventsApplication.Service\\EventsApplication.Service.csproj|solutionrelative:eventsapplication.service\\implementation\\attendeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF33F77D-82C2-43B0-8C04-29A6736232E3}|EventsApplication.Service\\EventsApplication.Service.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.service\\interface\\iattendeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF33F77D-82C2-43B0-8C04-29A6736232E3}|EventsApplication.Service\\EventsApplication.Service.csproj|solutionrelative:eventsapplication.service\\interface\\iattendeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF33F77D-82C2-43B0-8C04-29A6736232E3}|EventsApplication.Service\\EventsApplication.Service.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.service\\interface\\ispeakerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF33F77D-82C2-43B0-8C04-29A6736232E3}|EventsApplication.Service\\EventsApplication.Service.csproj|solutionrelative:eventsapplication.service\\interface\\ispeakerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF33F77D-82C2-43B0-8C04-29A6736232E3}|EventsApplication.Service\\EventsApplication.Service.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.service\\interface\\ischeduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF33F77D-82C2-43B0-8C04-29A6736232E3}|EventsApplication.Service\\EventsApplication.Service.csproj|solutionrelative:eventsapplication.service\\interface\\ischeduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF33F77D-82C2-43B0-8C04-29A6736232E3}|EventsApplication.Service\\EventsApplication.Service.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.service\\interface\\iregisrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF33F77D-82C2-43B0-8C04-29A6736232E3}|EventsApplication.Service\\EventsApplication.Service.csproj|solutionrelative:eventsapplication.service\\interface\\iregisrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF33F77D-82C2-43B0-8C04-29A6736232E3}|EventsApplication.Service\\EventsApplication.Service.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.service\\interface\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF33F77D-82C2-43B0-8C04-29A6736232E3}|EventsApplication.Service\\EventsApplication.Service.csproj|solutionrelative:eventsapplication.service\\interface\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4521B6-7163-4FE4-8C05-CDF865A98CF5}|EventsApplication.Repository\\EventsApplication.Repository.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.repository\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA4521B6-7163-4FE4-8C05-CDF865A98CF5}|EventsApplication.Repository\\EventsApplication.Repository.csproj|solutionrelative:eventsapplication.repository\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4521B6-7163-4FE4-8C05-CDF865A98CF5}|EventsApplication.Repository\\EventsApplication.Repository.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA4521B6-7163-4FE4-8C05-CDF865A98CF5}|EventsApplication.Repository\\EventsApplication.Repository.csproj|solutionrelative:eventsapplication.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4521B6-7163-4FE4-8C05-CDF865A98CF5}|EventsApplication.Repository\\EventsApplication.Repository.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.repository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA4521B6-7163-4FE4-8C05-CDF865A98CF5}|EventsApplication.Repository\\EventsApplication.Repository.csproj|solutionrelative:eventsapplication.repository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Repository\\Data\\Migrations\\20250427163101_UpdateModels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EventsApplication.Repository\\Data\\Migrations\\20250427163101_UpdateModels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1865975F-59C0-4BE8-8C88-B9C733C5788F}|EventsApplication.Domain\\EventsApplication.Domain.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.domain\\domainmodels\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1865975F-59C0-4BE8-8C88-B9C733C5788F}|EventsApplication.Domain\\EventsApplication.Domain.csproj|solutionrelative:eventsapplication.domain\\domainmodels\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1865975F-59C0-4BE8-8C88-B9C733C5788F}|EventsApplication.Domain\\EventsApplication.Domain.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.domain\\domainmodels\\eventinschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1865975F-59C0-4BE8-8C88-B9C733C5788F}|EventsApplication.Domain\\EventsApplication.Domain.csproj|solutionrelative:eventsapplication.domain\\domainmodels\\eventinschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1865975F-59C0-4BE8-8C88-B9C733C5788F}|EventsApplication.Domain\\EventsApplication.Domain.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.domain\\domainmodels\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1865975F-59C0-4BE8-8C88-B9C733C5788F}|EventsApplication.Domain\\EventsApplication.Domain.csproj|solutionrelative:eventsapplication.domain\\domainmodels\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1865975F-59C0-4BE8-8C88-B9C733C5788F}|EventsApplication.Domain\\EventsApplication.Domain.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.domain\\domainmodels\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1865975F-59C0-4BE8-8C88-B9C733C5788F}|EventsApplication.Domain\\EventsApplication.Domain.csproj|solutionrelative:eventsapplication.domain\\domainmodels\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1865975F-59C0-4BE8-8C88-B9C733C5788F}|EventsApplication.Domain\\EventsApplication.Domain.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.domain\\domainmodels\\speaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1865975F-59C0-4BE8-8C88-B9C733C5788F}|EventsApplication.Domain\\EventsApplication.Domain.csproj|solutionrelative:eventsapplication.domain\\domainmodels\\speaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1865975F-59C0-4BE8-8C88-B9C733C5788F}|EventsApplication.Domain\\EventsApplication.Domain.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1865975F-59C0-4BE8-8C88-B9C733C5788F}|EventsApplication.Domain\\EventsApplication.Domain.csproj|solutionrelative:eventsapplication.domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4521B6-7163-4FE4-8C05-CDF865A98CF5}|EventsApplication.Repository\\EventsApplication.Repository.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.repository\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA4521B6-7163-4FE4-8C05-CDF865A98CF5}|EventsApplication.Repository\\EventsApplication.Repository.csproj|solutionrelative:eventsapplication.repository\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F7EF52-246C-4A7F-878D-C0CD3688BC60}|EventsApplication.Web\\EventsApplication.Web.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F7EF52-246C-4A7F-878D-C0CD3688BC60}|EventsApplication.Web\\EventsApplication.Web.csproj|solutionrelative:eventsapplication.web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F7EF52-246C-4A7F-878D-C0CD3688BC60}|EventsApplication.Web\\EventsApplication.Web.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59F7EF52-246C-4A7F-878D-C0CD3688BC60}|EventsApplication.Web\\EventsApplication.Web.csproj|solutionrelative:eventsapplication.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F7EF52-246C-4A7F-878D-C0CD3688BC60}|EventsApplication.Web\\EventsApplication.Web.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59F7EF52-246C-4A7F-878D-C0CD3688BC60}|EventsApplication.Web\\EventsApplication.Web.csproj|solutionrelative:eventsapplication.web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F7EF52-246C-4A7F-878D-C0CD3688BC60}|EventsApplication.Web\\EventsApplication.Web.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.web\\views\\attendees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59F7EF52-246C-4A7F-878D-C0CD3688BC60}|EventsApplication.Web\\EventsApplication.Web.csproj|solutionrelative:eventsapplication.web\\views\\attendees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4521B6-7163-4FE4-8C05-CDF865A98CF5}|EventsApplication.Repository\\EventsApplication.Repository.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.repository\\data\\migrations\\20250415203512_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA4521B6-7163-4FE4-8C05-CDF865A98CF5}|EventsApplication.Repository\\EventsApplication.Repository.csproj|solutionrelative:eventsapplication.repository\\data\\migrations\\20250415203512_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4521B6-7163-4FE4-8C05-CDF865A98CF5}|EventsApplication.Repository\\EventsApplication.Repository.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.repository\\data\\migrations\\00000000000000_createidentityschema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA4521B6-7163-4FE4-8C05-CDF865A98CF5}|EventsApplication.Repository\\EventsApplication.Repository.csproj|solutionrelative:eventsapplication.repository\\data\\migrations\\00000000000000_createidentityschema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4521B6-7163-4FE4-8C05-CDF865A98CF5}|EventsApplication.Repository\\EventsApplication.Repository.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.repository\\data\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA4521B6-7163-4FE4-8C05-CDF865A98CF5}|EventsApplication.Repository\\EventsApplication.Repository.csproj|solutionrelative:eventsapplication.repository\\data\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1865975F-59C0-4BE8-8C88-B9C733C5788F}|EventsApplication.Domain\\EventsApplication.Domain.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.domain\\eventsapplication.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1865975F-59C0-4BE8-8C88-B9C733C5788F}|EventsApplication.Domain\\EventsApplication.Domain.csproj|solutionrelative:eventsapplication.domain\\eventsapplication.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4521B6-7163-4FE4-8C05-CDF865A98CF5}|EventsApplication.Repository\\EventsApplication.Repository.csproj|c:\\users\\sfili\\desktop\\eventsapplication\\eventsapplication\\eventsapplication.repository\\eventsapplication.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FA4521B6-7163-4FE4-8C05-CDF865A98CF5}|EventsApplication.Repository\\EventsApplication.Repository.csproj|solutionrelative:eventsapplication.repository\\eventsapplication.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 285,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SchedulesController.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Web\\Controllers\\SchedulesController.cs",
+              "RelativeDocumentMoniker": "EventsApplication.Web\\Controllers\\SchedulesController.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Web\\Controllers\\SchedulesController.cs",
+              "RelativeToolTip": "EventsApplication.Web\\Controllers\\SchedulesController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:39:46.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EventsApplication.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EventsApplication.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:39:24.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EventsApplication.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EventsApplication.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T16:38:39.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Web\\Views\\Schedules\\Details.cshtml",
+              "RelativeDocumentMoniker": "EventsApplication.Web\\Views\\Schedules\\Details.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Web\\Views\\Schedules\\Details.cshtml",
+              "RelativeToolTip": "EventsApplication.Web\\Views\\Schedules\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T16:38:25.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Web\\Views\\Registrations\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventsApplication.Web\\Views\\Registrations\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Web\\Views\\Registrations\\Index.cshtml",
+              "RelativeToolTip": "EventsApplication.Web\\Views\\Registrations\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T16:37:09.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Web\\Views\\Events\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventsApplication.Web\\Views\\Events\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Web\\Views\\Events\\Index.cshtml",
+              "RelativeToolTip": "EventsApplication.Web\\Views\\Events\\Index.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAqwDoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T16:36:38.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Web\\Views\\Events\\Details.cshtml",
+              "RelativeDocumentMoniker": "EventsApplication.Web\\Views\\Events\\Details.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Web\\Views\\Events\\Details.cshtml",
+              "RelativeToolTip": "EventsApplication.Web\\Views\\Events\\Details.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAqwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T16:36:27.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Web\\Views\\Events\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EventsApplication.Web\\Views\\Events\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Web\\Views\\Events\\Delete.cshtml",
+              "RelativeToolTip": "EventsApplication.Web\\Views\\Events\\Delete.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T16:36:18.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SpeakerService.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Service\\Implementation\\SpeakerService.cs",
+              "RelativeDocumentMoniker": "EventsApplication.Service\\Implementation\\SpeakerService.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Service\\Implementation\\SpeakerService.cs",
+              "RelativeToolTip": "EventsApplication.Service\\Implementation\\SpeakerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:34:33.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ScheduleService.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Service\\Implementation\\ScheduleService.cs",
+              "RelativeDocumentMoniker": "EventsApplication.Service\\Implementation\\ScheduleService.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Service\\Implementation\\ScheduleService.cs",
+              "RelativeToolTip": "EventsApplication.Service\\Implementation\\ScheduleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:34:26.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistrationService.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Service\\Implementation\\RegistrationService.cs",
+              "RelativeDocumentMoniker": "EventsApplication.Service\\Implementation\\RegistrationService.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Service\\Implementation\\RegistrationService.cs",
+              "RelativeToolTip": "EventsApplication.Service\\Implementation\\RegistrationService.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:34:16.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Service\\Implementation\\EventService.cs",
+              "RelativeDocumentMoniker": "EventsApplication.Service\\Implementation\\EventService.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Service\\Implementation\\EventService.cs",
+              "RelativeToolTip": "EventsApplication.Service\\Implementation\\EventService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:34:07.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AttendeeService.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Service\\Implementation\\AttendeeService.cs",
+              "RelativeDocumentMoniker": "EventsApplication.Service\\Implementation\\AttendeeService.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Service\\Implementation\\AttendeeService.cs",
+              "RelativeToolTip": "EventsApplication.Service\\Implementation\\AttendeeService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:33:53.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IScheduleService.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Service\\Interface\\IScheduleService.cs",
+              "RelativeDocumentMoniker": "EventsApplication.Service\\Interface\\IScheduleService.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Service\\Interface\\IScheduleService.cs",
+              "RelativeToolTip": "EventsApplication.Service\\Interface\\IScheduleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:33:35.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20250427163101_UpdateModels.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Repository\\Data\\Migrations\\20250427163101_UpdateModels.cs",
+              "RelativeDocumentMoniker": "EventsApplication.Repository\\Data\\Migrations\\20250427163101_UpdateModels.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Repository\\Data\\Migrations\\20250427163101_UpdateModels.cs",
+              "RelativeToolTip": "EventsApplication.Repository\\Data\\Migrations\\20250427163101_UpdateModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:31:01.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Schedule.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Domain\\DomainModels\\Schedule.cs",
+              "RelativeDocumentMoniker": "EventsApplication.Domain\\DomainModels\\Schedule.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Domain\\DomainModels\\Schedule.cs",
+              "RelativeToolTip": "EventsApplication.Domain\\DomainModels\\Schedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:15:22.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EventInSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Domain\\DomainModels\\EventInSchedule.cs",
+              "RelativeDocumentMoniker": "EventsApplication.Domain\\DomainModels\\EventInSchedule.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Domain\\DomainModels\\EventInSchedule.cs",
+              "RelativeToolTip": "EventsApplication.Domain\\DomainModels\\EventInSchedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:15:02.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Domain\\DomainModels\\Registration.cs",
+              "RelativeDocumentMoniker": "EventsApplication.Domain\\DomainModels\\Registration.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Domain\\DomainModels\\Registration.cs",
+              "RelativeToolTip": "EventsApplication.Domain\\DomainModels\\Registration.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T21:11:47.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ISpeakerService.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Service\\Interface\\ISpeakerService.cs",
+              "RelativeDocumentMoniker": "EventsApplication.Service\\Interface\\ISpeakerService.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Service\\Interface\\ISpeakerService.cs",
+              "RelativeToolTip": "EventsApplication.Service\\Interface\\ISpeakerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T21:02:04.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Web\\Program.cs",
+              "RelativeDocumentMoniker": "EventsApplication.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Web\\Program.cs",
+              "RelativeToolTip": "EventsApplication.Web\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwB0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T20:30:16.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistrationsController.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Web\\Controllers\\RegistrationsController.cs",
+              "RelativeDocumentMoniker": "EventsApplication.Web\\Controllers\\RegistrationsController.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Web\\Controllers\\RegistrationsController.cs",
+              "RelativeToolTip": "EventsApplication.Web\\Controllers\\RegistrationsController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T20:45:20.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IAttendeeService.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Service\\Interface\\IAttendeeService.cs",
+              "RelativeDocumentMoniker": "EventsApplication.Service\\Interface\\IAttendeeService.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Service\\Interface\\IAttendeeService.cs",
+              "RelativeToolTip": "EventsApplication.Service\\Interface\\IAttendeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T21:01:28.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Web\\Views\\Events\\Create.cshtml",
+              "RelativeDocumentMoniker": "EventsApplication.Web\\Views\\Events\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Web\\Views\\Events\\Create.cshtml",
+              "RelativeToolTip": "EventsApplication.Web\\Views\\Events\\Create.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T20:45:44.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IEventService.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Service\\Interface\\IEventService.cs",
+              "RelativeDocumentMoniker": "EventsApplication.Service\\Interface\\IEventService.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Service\\Interface\\IEventService.cs",
+              "RelativeToolTip": "EventsApplication.Service\\Interface\\IEventService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T21:00:01.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "EventsApplication.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "EventsApplication.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAawH8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T20:51:00.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "EventsApplication.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "EventsApplication.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T20:49:59.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Speaker.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Domain\\DomainModels\\Speaker.cs",
+              "RelativeDocumentMoniker": "EventsApplication.Domain\\DomainModels\\Speaker.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Domain\\DomainModels\\Speaker.cs",
+              "RelativeToolTip": "EventsApplication.Domain\\DomainModels\\Speaker.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T19:54:47.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpeakersController.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Web\\Controllers\\SpeakersController.cs",
+              "RelativeDocumentMoniker": "EventsApplication.Web\\Controllers\\SpeakersController.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Web\\Controllers\\SpeakersController.cs",
+              "RelativeToolTip": "EventsApplication.Web\\Controllers\\SpeakersController.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAQwJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T20:44:21.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IRegisrationService.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Service\\Interface\\IRegisrationService.cs",
+              "RelativeDocumentMoniker": "EventsApplication.Service\\Interface\\IRegisrationService.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Service\\Interface\\IRegisrationService.cs",
+              "RelativeToolTip": "EventsApplication.Service\\Interface\\IRegisrationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T21:03:04.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Web\\Views\\Registrations\\Create.cshtml",
+              "RelativeDocumentMoniker": "EventsApplication.Web\\Views\\Registrations\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Web\\Views\\Registrations\\Create.cshtml",
+              "RelativeToolTip": "EventsApplication.Web\\Views\\Registrations\\Create.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T21:04:03.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Web\\Views\\Attendees\\Create.cshtml",
+              "RelativeDocumentMoniker": "EventsApplication.Web\\Views\\Attendees\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Web\\Views\\Attendees\\Create.cshtml",
+              "RelativeToolTip": "EventsApplication.Web\\Views\\Attendees\\Create.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAqwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T20:47:05.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "EventsApplication.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "EventsApplication.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T20:53:08.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Web\\Views\\Attendees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EventsApplication.Web\\Views\\Attendees\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Web\\Views\\Attendees\\Edit.cshtml",
+              "RelativeToolTip": "EventsApplication.Web\\Views\\Attendees\\Edit.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T20:47:14.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AttendeesController.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Web\\Controllers\\AttendeesController.cs",
+              "RelativeDocumentMoniker": "EventsApplication.Web\\Controllers\\AttendeesController.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Web\\Controllers\\AttendeesController.cs",
+              "RelativeToolTip": "EventsApplication.Web\\Controllers\\AttendeesController.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAAwI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T20:46:47.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Web\\Views\\Speakers\\Create.cshtml",
+              "RelativeDocumentMoniker": "EventsApplication.Web\\Views\\Speakers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Web\\Views\\Speakers\\Create.cshtml",
+              "RelativeToolTip": "EventsApplication.Web\\Views\\Speakers\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T20:46:08.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Web\\Views\\Events\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EventsApplication.Web\\Views\\Events\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Web\\Views\\Events\\Edit.cshtml",
+              "RelativeToolTip": "EventsApplication.Web\\Views\\Events\\Edit.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAqwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T20:45:57.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Repository\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EventsApplication.Repository\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Repository\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EventsApplication.Repository\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T20:23:36.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Web\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "EventsApplication.Web\\Controllers\\EventsController.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Web\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "EventsApplication.Web\\Controllers\\EventsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T20:43:32.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20250415203512_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Repository\\Data\\Migrations\\20250415203512_Initial.cs",
+              "RelativeDocumentMoniker": "EventsApplication.Repository\\Data\\Migrations\\20250415203512_Initial.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Repository\\Data\\Migrations\\20250415203512_Initial.cs",
+              "RelativeToolTip": "EventsApplication.Repository\\Data\\Migrations\\20250415203512_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T20:35:13.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Repository\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "EventsApplication.Repository\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Repository\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "EventsApplication.Repository\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T20:32:37.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Attendee.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Domain\\DomainModels\\Attendee.cs",
+              "RelativeDocumentMoniker": "EventsApplication.Domain\\DomainModels\\Attendee.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Domain\\DomainModels\\Attendee.cs",
+              "RelativeToolTip": "EventsApplication.Domain\\DomainModels\\Attendee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T19:54:28.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Domain\\DomainModels\\Event.cs",
+              "RelativeDocumentMoniker": "EventsApplication.Domain\\DomainModels\\Event.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Domain\\DomainModels\\Event.cs",
+              "RelativeToolTip": "EventsApplication.Domain\\DomainModels\\Event.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T19:54:41.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "00000000000000_CreateIdentitySchema.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Repository\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "RelativeDocumentMoniker": "EventsApplication.Repository\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Repository\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "RelativeToolTip": "EventsApplication.Repository\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T20:32:50.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ApplicationDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Repository\\Data\\ApplicationDbContextFactory.cs",
+              "RelativeDocumentMoniker": "EventsApplication.Repository\\Data\\ApplicationDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Repository\\Data\\ApplicationDbContextFactory.cs",
+              "RelativeToolTip": "EventsApplication.Repository\\Data\\ApplicationDbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T20:29:14.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Repository\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "EventsApplication.Repository\\Interface\\IRepository.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Repository\\Interface\\IRepository.cs",
+              "RelativeToolTip": "EventsApplication.Repository\\Interface\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T20:29:16.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Domain\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "EventsApplication.Domain\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Domain\\BaseEntity.cs",
+              "RelativeToolTip": "EventsApplication.Domain\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T20:29:06.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Repository\\Implementation\\Repository.cs",
+              "RelativeDocumentMoniker": "EventsApplication.Repository\\Implementation\\Repository.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Repository\\Implementation\\Repository.cs",
+              "RelativeToolTip": "EventsApplication.Repository\\Implementation\\Repository.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAswE8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T20:28:55.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "EventsApplication.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Domain\\EventsApplication.Domain.csproj",
+              "RelativeDocumentMoniker": "EventsApplication.Domain\\EventsApplication.Domain.csproj",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Domain\\EventsApplication.Domain.csproj",
+              "RelativeToolTip": "EventsApplication.Domain\\EventsApplication.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-15T19:54:12.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EventsApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Domain\\IdentityModels\\EventsApplicationUser.cs",
+              "RelativeDocumentMoniker": "EventsApplication.Domain\\IdentityModels\\EventsApplicationUser.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Domain\\IdentityModels\\EventsApplicationUser.cs",
+              "RelativeToolTip": "EventsApplication.Domain\\IdentityModels\\EventsApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T20:20:34.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "EventsApplication.Repository.csproj",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Repository\\EventsApplication.Repository.csproj",
+              "RelativeDocumentMoniker": "EventsApplication.Repository\\EventsApplication.Repository.csproj",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\EventsApplication\\EventsApplication\\EventsApplication.Repository\\EventsApplication.Repository.csproj",
+              "RelativeToolTip": "EventsApplication.Repository\\EventsApplication.Repository.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-15T20:19:44.886Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 831,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 115,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

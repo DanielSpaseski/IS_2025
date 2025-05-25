@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\spase\\Downloads\\CoursesApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E56251C-8BB3-4052-95F3-C0BF85A6B0AB}|CoursesApplication.Domain\\CoursesApplication.Domain.csproj|c:\\users\\spase\\downloads\\coursesapplication\\coursesapplication.domain\\domainmodels\\studentoncourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E56251C-8BB3-4052-95F3-C0BF85A6B0AB}|CoursesApplication.Domain\\CoursesApplication.Domain.csproj|solutionrelative:coursesapplication.domain\\domainmodels\\studentoncourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E56251C-8BB3-4052-95F3-C0BF85A6B0AB}|CoursesApplication.Domain\\CoursesApplication.Domain.csproj|c:\\users\\spase\\downloads\\coursesapplication\\coursesapplication.domain\\domainmodels\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E56251C-8BB3-4052-95F3-C0BF85A6B0AB}|CoursesApplication.Domain\\CoursesApplication.Domain.csproj|solutionrelative:coursesapplication.domain\\domainmodels\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB266BAE-C4CD-42C2-9AC9-16846ED6AE4E}|CoursesApplication.Service\\CoursesApplication.Service.csproj|c:\\users\\spase\\downloads\\coursesapplication\\coursesapplication.service\\implementation\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB266BAE-C4CD-42C2-9AC9-16846ED6AE4E}|CoursesApplication.Service\\CoursesApplication.Service.csproj|solutionrelative:coursesapplication.service\\implementation\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FB0D4C-294B-48EF-9FF3-227A8CE94E1A}|CoursesApplication.Web\\CoursesApplication.Web.csproj|c:\\users\\spase\\downloads\\coursesapplication\\coursesapplication.web\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97FB0D4C-294B-48EF-9FF3-227A8CE94E1A}|CoursesApplication.Web\\CoursesApplication.Web.csproj|solutionrelative:coursesapplication.web\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FB0D4C-294B-48EF-9FF3-227A8CE94E1A}|CoursesApplication.Web\\CoursesApplication.Web.csproj|c:\\users\\spase\\downloads\\coursesapplication\\coursesapplication.web\\controllers\\studentoncoursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97FB0D4C-294B-48EF-9FF3-227A8CE94E1A}|CoursesApplication.Web\\CoursesApplication.Web.csproj|solutionrelative:coursesapplication.web\\controllers\\studentoncoursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FB0D4C-294B-48EF-9FF3-227A8CE94E1A}|CoursesApplication.Web\\CoursesApplication.Web.csproj|c:\\users\\spase\\downloads\\coursesapplication\\coursesapplication.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{97FB0D4C-294B-48EF-9FF3-227A8CE94E1A}|CoursesApplication.Web\\CoursesApplication.Web.csproj|solutionrelative:coursesapplication.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB266BAE-C4CD-42C2-9AC9-16846ED6AE4E}|CoursesApplication.Service\\CoursesApplication.Service.csproj|c:\\users\\spase\\downloads\\coursesapplication\\coursesapplication.service\\implementation\\studentoncourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB266BAE-C4CD-42C2-9AC9-16846ED6AE4E}|CoursesApplication.Service\\CoursesApplication.Service.csproj|solutionrelative:coursesapplication.service\\implementation\\studentoncourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FB0D4C-294B-48EF-9FF3-227A8CE94E1A}|CoursesApplication.Web\\CoursesApplication.Web.csproj|c:\\users\\spase\\downloads\\coursesapplication\\coursesapplication.web\\controllers\\semesterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97FB0D4C-294B-48EF-9FF3-227A8CE94E1A}|CoursesApplication.Web\\CoursesApplication.Web.csproj|solutionrelative:coursesapplication.web\\controllers\\semesterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FB0D4C-294B-48EF-9FF3-227A8CE94E1A}|CoursesApplication.Web\\CoursesApplication.Web.csproj|c:\\users\\spase\\downloads\\coursesapplication\\coursesapplication.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97FB0D4C-294B-48EF-9FF3-227A8CE94E1A}|CoursesApplication.Web\\CoursesApplication.Web.csproj|solutionrelative:coursesapplication.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentOnCourse.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Domain\\DomainModels\\StudentOnCourse.cs",
+              "RelativeDocumentMoniker": "CoursesApplication.Domain\\DomainModels\\StudentOnCourse.cs",
+              "ToolTip": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Domain\\DomainModels\\StudentOnCourse.cs",
+              "RelativeToolTip": "CoursesApplication.Domain\\DomainModels\\StudentOnCourse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:55:24.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Domain\\DomainModels\\Course.cs",
+              "RelativeDocumentMoniker": "CoursesApplication.Domain\\DomainModels\\Course.cs",
+              "ToolTip": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Domain\\DomainModels\\Course.cs",
+              "RelativeToolTip": "CoursesApplication.Domain\\DomainModels\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:55:19.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Service\\Implementation\\CourseService.cs",
+              "RelativeDocumentMoniker": "CoursesApplication.Service\\Implementation\\CourseService.cs",
+              "ToolTip": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Service\\Implementation\\CourseService.cs",
+              "RelativeToolTip": "CoursesApplication.Service\\Implementation\\CourseService.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAYwCYAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:51:33.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "CoursesApplication.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Web\\appsettings.json",
+              "RelativeToolTip": "CoursesApplication.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-25T11:48:17.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentOnCourseService.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Service\\Implementation\\StudentOnCourseService.cs",
+              "RelativeDocumentMoniker": "CoursesApplication.Service\\Implementation\\StudentOnCourseService.cs",
+              "ToolTip": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Service\\Implementation\\StudentOnCourseService.cs",
+              "RelativeToolTip": "CoursesApplication.Service\\Implementation\\StudentOnCourseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:44:34.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentOnCourseController.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Web\\Controllers\\StudentOnCourseController.cs",
+              "RelativeDocumentMoniker": "CoursesApplication.Web\\Controllers\\StudentOnCourseController.cs",
+              "ToolTip": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Web\\Controllers\\StudentOnCourseController.cs",
+              "RelativeToolTip": "CoursesApplication.Web\\Controllers\\StudentOnCourseController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:44:31.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SemestersController.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Web\\Controllers\\SemestersController.cs",
+              "RelativeDocumentMoniker": "CoursesApplication.Web\\Controllers\\SemestersController.cs",
+              "ToolTip": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Web\\Controllers\\SemestersController.cs",
+              "RelativeToolTip": "CoursesApplication.Web\\Controllers\\SemestersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:44:30.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Web\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "CoursesApplication.Web\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Web\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "CoursesApplication.Web\\Controllers\\CoursesController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:44:29.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Web\\Program.cs",
+              "RelativeDocumentMoniker": "CoursesApplication.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Web\\Program.cs",
+              "RelativeToolTip": "CoursesApplication.Web\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:44:23.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 831,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 115,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

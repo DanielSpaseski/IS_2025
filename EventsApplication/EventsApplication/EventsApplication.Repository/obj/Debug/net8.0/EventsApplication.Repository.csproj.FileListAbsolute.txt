@@ -1,0 +1,16 @@
+C:\Users\spase\Downloads\EventsApplication\EventsApplication\EventsApplication.Repository\bin\Debug\net8.0\EventsApplication.Repository.deps.json
+C:\Users\spase\Downloads\EventsApplication\EventsApplication\EventsApplication.Repository\bin\Debug\net8.0\EventsApplication.Repository.dll
+C:\Users\spase\Downloads\EventsApplication\EventsApplication\EventsApplication.Repository\bin\Debug\net8.0\EventsApplication.Repository.pdb
+C:\Users\spase\Downloads\EventsApplication\EventsApplication\EventsApplication.Repository\bin\Debug\net8.0\EventsApplication.Domain.dll
+C:\Users\spase\Downloads\EventsApplication\EventsApplication\EventsApplication.Repository\bin\Debug\net8.0\EventsApplication.Domain.pdb
+C:\Users\spase\Downloads\EventsApplication\EventsApplication\EventsApplication.Repository\obj\Debug\net8.0\EventsApplication.Repository.csproj.AssemblyReference.cache
+C:\Users\spase\Downloads\EventsApplication\EventsApplication\EventsApplication.Repository\obj\Debug\net8.0\EventsApplication.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spase\Downloads\EventsApplication\EventsApplication\EventsApplication.Repository\obj\Debug\net8.0\EventsApplication.Repository.AssemblyInfoInputs.cache
+C:\Users\spase\Downloads\EventsApplication\EventsApplication\EventsApplication.Repository\obj\Debug\net8.0\EventsApplication.Repository.AssemblyInfo.cs
+C:\Users\spase\Downloads\EventsApplication\EventsApplication\EventsApplication.Repository\obj\Debug\net8.0\EventsApplication.Repository.csproj.CoreCompileInputs.cache
+C:\Users\spase\Downloads\EventsApplication\EventsApplication\EventsApplication.Repository\obj\Debug\net8.0\EventsApplication.Repository.sourcelink.json
+C:\Users\spase\Downloads\EventsApplication\EventsApplication\EventsApplication.Repository\obj\Debug\net8.0\EventsAp.24CFD834.Up2Date
+C:\Users\spase\Downloads\EventsApplication\EventsApplication\EventsApplication.Repository\obj\Debug\net8.0\EventsApplication.Repository.dll
+C:\Users\spase\Downloads\EventsApplication\EventsApplication\EventsApplication.Repository\obj\Debug\net8.0\refint\EventsApplication.Repository.dll
+C:\Users\spase\Downloads\EventsApplication\EventsApplication\EventsApplication.Repository\obj\Debug\net8.0\EventsApplication.Repository.pdb
+C:\Users\spase\Downloads\EventsApplication\EventsApplication\EventsApplication.Repository\obj\Debug\net8.0\ref\EventsApplication.Repository.dll

@@ -1,0 +1,35 @@
+@@Add 
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>StudentOnCourse</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        @* Put the form action *@
+        <form asp-action="SubmitCourseEnrollemnt" method="post">
+            @* Fill the drop down list with all the semesters *@
+            <div class="form-group">
+                <label class="control-label">Semester</label>
+                <select asp-items="@ViewBag.SemesterId" name="SemesterId" id="semesters" class="form-control form-select"></select>
+            </div>
+            @* Put the selected CourseId  *@
+            <input type="hidden" value="@ViewBag.CourseId" name="CourseId" id="course-id"/>
+            <div class="form-group">
+                <label>Re Enroll</label>
+                <input type="checkbox" name="reEnroll"/>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary"/>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

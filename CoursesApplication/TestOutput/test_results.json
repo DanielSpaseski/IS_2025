@@ -1,0 +1,443 @@
+[
+  {
+    "TestName": "OnionArchitectureTests.Controllers_Should_Not_Depend_On_IRepository",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "OnionArchitecture",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-25T13:54:48.8773051+02:00",
+    "ErrorMessage": null,
+    "Points": 10
+  },
+  {
+    "TestName": "OnionArchitectureTests.Controllers_Should_Not_Depend_On_ApplicationDbContext",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "OnionArchitecture",
+    "IsPassed": false,
+    "ExecutedAt": "2025-05-25T13:54:48.9263693+02:00",
+    "ErrorMessage": "Could not find ApplicationDbContext or any DbContext subclass. Check if Entity Framework Core is properly referenced.",
+    "Points": 10
+  },
+  {
+    "TestName": "OnionArchitectureTests.Services_Should_Not_Depend_On_ApplicationDbContext",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "OnionArchitecture",
+    "IsPassed": false,
+    "ExecutedAt": "2025-05-25T13:54:48.9474316+02:00",
+    "ErrorMessage": "Could not find ApplicationDbContext or any DbContext subclass. Check if Entity Framework Core is properly referenced.",
+    "Points": 10
+  },
+  {
+    "TestName": "CoursesControllerTests.Delete_InvalidId_ShouldReturnNotFound",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "CoursesController",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-25T13:54:50.0661286+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "CoursesControllerTests.Edit_MismatchedId_ShouldReturnNotFound",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "CoursesController",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-25T13:54:50.4808369+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "CoursesControllerTests.Details_InvalidId_ShouldReturnNotFound",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "CoursesController",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-25T13:54:50.8150296+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "CoursesControllerTests.Edit_ValidCourse_ShouldRedirectToIndex",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "CoursesController",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-25T13:54:51.1248708+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "CoursesControllerTests.Index_ShouldReturnAllCourses",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "CoursesController",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-25T13:54:51.4402912+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "CoursesControllerTests.Details_ValidId_ShouldReturnCourse",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "CoursesController",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-25T13:54:51.7209979+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "CoursesControllerTests.Edit_InvalidCourseName_ShouldReturnView",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "CoursesController",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-25T13:54:52.0592536+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "CoursesControllerTests.Create_ValidCourse_ShouldRedirectToIndex",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "CoursesController",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-25T13:54:52.3769919+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "CoursesControllerTests.Create_InvalidCourse_ShouldReturnView",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "CoursesController",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-25T13:54:52.6662613+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "CoursesControllerTests.Delete_ValidCourse_ShouldRedirectToIndex",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "CoursesController",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-25T13:54:52.9807127+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "SemestersControllerTests.Delete_ValidSemester_ShouldRedirectToIndex",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "SemestersController",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-25T13:54:53.3145296+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "SemestersControllerTests.Create_InvalidSemester_ShouldReturnView",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "SemestersController",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-25T13:54:53.6367358+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "SemestersControllerTests.Index_ShouldReturnAllSemesters",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "SemestersController",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-25T13:54:53.968886+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "SemestersControllerTests.Details_ValidId_ShouldReturnSemester",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "SemestersController",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-25T13:54:54.297462+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "SemestersControllerTests.Edit_MismatchedId_ShouldReturnNotFound",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "SemestersController",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-25T13:54:54.6163926+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "SemestersControllerTests.Details_InvalidId_ShouldReturnNotFound",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "SemestersController",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-25T13:54:54.9253847+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "SemestersControllerTests.Delete_InvalidId_ShouldReturnNotFound",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "SemestersController",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-25T13:54:55.2528542+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "SemestersControllerTests.Edit_InvalidSemesterName_ShouldReturnView",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "SemestersController",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-25T13:54:55.5954832+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "SemestersControllerTests.Create_ValidSemester_ShouldRedirectToIndex",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "SemestersController",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-25T13:54:55.895629+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "SemestersControllerTests.Edit_ValidSemester_ShouldRedirectToIndex",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "SemestersController",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-25T13:54:56.2186592+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "StudentOnCourseControllerTests.Index_Unauthenticated_ShouldReturnUnauthorized",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "StudentOnCourse",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-25T13:54:56.5308185+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "StudentOnCourseControllerTests.SubmitCourseEnrollment_Unauthenticated_ShouldReturnUnauthorized",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "StudentOnCourse",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-25T13:54:56.8508932+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "StudentOnCourseControllerTests.EnrollOnCourse_Unauthenticated_ShouldReturnUnauthorized",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "StudentOnCourse",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-25T13:54:57.1620418+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "StudentOnCourseControllerTests.Index_Authenticated_ShouldReturnUserEnrollments",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "StudentOnCourse",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-25T13:54:57.4998689+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "StudentOnCourseControllerTests.SubmitCourseEnrollment_Authenticated_ShouldSucceed",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "StudentOnCourse",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-25T13:54:57.7960632+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "StudentOnCourseControllerTests.EnrollOnCourse_Authenticated_ShouldDisplayForm",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "StudentOnCourse",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-25T13:54:58.14601+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "CourseServiceIntegrationTests.Service_Should_GetCourseById",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "CourseService",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-25T13:54:58.3194869+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "CourseServiceIntegrationTests.Service_Should_UpdateCourse",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "CourseService",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-25T13:54:58.404696+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "CourseServiceIntegrationTests.Service_Should_InsertManyCourses",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "CourseService",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-25T13:54:58.4882701+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "CourseServiceIntegrationTests.Service_Should_GetAllCourses",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "CourseService",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-25T13:54:58.5699308+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "CourseServiceIntegrationTests.Service_Should_DeleteCourse",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "CourseService",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-25T13:54:58.6574948+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "CourseServiceIntegrationTests.Service_Should_CreateCourse",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "CourseService",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-25T13:54:58.7231366+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "DataFetchServiceIntegrationTests.FetchCoursesFromApi_Should_Return_Valid_Courses",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "DataFetchService",
+    "IsPassed": false,
+    "ExecutedAt": "2025-05-25T13:55:00.9610689+02:00",
+    "ErrorMessage": "No connection could be made because the target machine actively refused it. (is-lab4.ddns.net:8080)",
+    "Points": 5
+  },
+  {
+    "TestName": "SemesterServiceIntegrationTests.Service_Should_InsertManySemesters",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "SemesterService",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-25T13:55:01.040861+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "SemesterServiceIntegrationTests.Service_Should_UpdateSemester",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "SemesterService",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-25T13:55:01.119224+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "SemesterServiceIntegrationTests.Service_Should_DeleteSemester",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "SemesterService",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-25T13:55:01.202821+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "SemesterServiceIntegrationTests.Service_Should_GetSemesterById",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "SemesterService",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-25T13:55:01.2684005+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "SemesterServiceIntegrationTests.Service_Should_GetAllSemesters",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "SemesterService",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-25T13:55:01.3383809+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "SemesterServiceIntegrationTests.Service_Should_CreateSemester",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "SemesterService",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-25T13:55:01.4146334+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "StudentOnCourseServiceIntegrationTests.Service_Should_InsertStudentOnCourse",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "StudentOnCourseService",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-25T13:55:01.5134311+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "StudentOnCourseServiceIntegrationTests.Service_Should_EnrollStudentOnCourse",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "StudentOnCourseService",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-25T13:55:01.5917724+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "StudentOnCourseServiceIntegrationTests.Service_Should_DeleteStudentOnCourse",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "StudentOnCourseService",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-25T13:55:01.6834411+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "StudentOnCourseServiceIntegrationTests.Service_Should_GetStudentOnCourseById",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "StudentOnCourseService",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-25T13:55:01.7674455+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "StudentOnCourseServiceIntegrationTests.Service_Should_UpdateStudentOnCourse",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "StudentOnCourseService",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-25T13:55:01.8349981+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "StudentOnCourseServiceIntegrationTests.Service_Should_GetAllByStudentId",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "StudentOnCourseService",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-25T13:55:01.9015987+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "StudentOnCourseServiceIntegrationTests.Service_Should_GetAllStudentOnCourses",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "StudentOnCourseService",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-25T13:55:01.9690384+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  }
+]
