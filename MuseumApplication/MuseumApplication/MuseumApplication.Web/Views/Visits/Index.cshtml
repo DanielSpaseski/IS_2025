@@ -1,0 +1,59 @@
+﻿@model IEnumerable<MuseumApplication.Domain.DomainModels.Visit>
+
+@{
+    ViewData["Title"] = "View";
+}
+
+<h1>View</h1>
+
+<p>
+    <!-- TODO: Add Create Visitors History button -->
+    <form asp-action="CreateVisitorHistory" method="post">
+        <button type="submit" class="btn btn-primary">Create Visitors History</button>
+    </form>
+
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Visitor)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Artifact)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateVisited)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.User)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Visitor.Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Artifact.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DateVisited)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.User.Id)
+                </td>
+                <td>
+                    <!-- TODO: Add Delete Button -->
+                    <form asp-action="Delete" asp-route-id="@item.Id" method="post">
+                        <button type="submit">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

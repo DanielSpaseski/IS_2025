@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\spase\\Downloads\\AthletesApplication\\AthletesApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC55BF3D-DA85-4D83-9707-4E047E78B65F}|AthletesApplication.Domain\\AthletesApplication.Domain.csproj|c:\\users\\spase\\downloads\\athletesapplication\\athletesapplication\\athletesapplication.domain\\domainmodels\\athleteintournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC55BF3D-DA85-4D83-9707-4E047E78B65F}|AthletesApplication.Domain\\AthletesApplication.Domain.csproj|solutionrelative:athletesapplication.domain\\domainmodels\\athleteintournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 285,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AthleteInTournament.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\Downloads\\AthletesApplication\\AthletesApplication\\AthletesApplication.Domain\\DomainModels\\AthleteInTournament.cs",
+              "RelativeDocumentMoniker": "AthletesApplication.Domain\\DomainModels\\AthleteInTournament.cs",
+              "ToolTip": "C:\\Users\\spase\\Downloads\\AthletesApplication\\AthletesApplication\\AthletesApplication.Domain\\DomainModels\\AthleteInTournament.cs",
+              "RelativeToolTip": "AthletesApplication.Domain\\DomainModels\\AthleteInTournament.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:54:02.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 831,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 115,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

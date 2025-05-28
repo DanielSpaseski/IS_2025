@@ -1,0 +1,13 @@
+C:\Users\spase\Downloads\AthletesApplication\AthletesApplication\AthletesApplication.Domain\bin\Debug\net8.0\AthletesApplication.Domain.deps.json
+C:\Users\spase\Downloads\AthletesApplication\AthletesApplication\AthletesApplication.Domain\bin\Debug\net8.0\AthletesApplication.Domain.dll
+C:\Users\spase\Downloads\AthletesApplication\AthletesApplication\AthletesApplication.Domain\bin\Debug\net8.0\AthletesApplication.Domain.pdb
+C:\Users\spase\Downloads\AthletesApplication\AthletesApplication\AthletesApplication.Domain\obj\Debug\net8.0\AthletesApplication.Domain.csproj.AssemblyReference.cache
+C:\Users\spase\Downloads\AthletesApplication\AthletesApplication\AthletesApplication.Domain\obj\Debug\net8.0\AthletesApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spase\Downloads\AthletesApplication\AthletesApplication\AthletesApplication.Domain\obj\Debug\net8.0\AthletesApplication.Domain.AssemblyInfoInputs.cache
+C:\Users\spase\Downloads\AthletesApplication\AthletesApplication\AthletesApplication.Domain\obj\Debug\net8.0\AthletesApplication.Domain.AssemblyInfo.cs
+C:\Users\spase\Downloads\AthletesApplication\AthletesApplication\AthletesApplication.Domain\obj\Debug\net8.0\AthletesApplication.Domain.csproj.CoreCompileInputs.cache
+C:\Users\spase\Downloads\AthletesApplication\AthletesApplication\AthletesApplication.Domain\obj\Debug\net8.0\AthletesApplication.Domain.sourcelink.json
+C:\Users\spase\Downloads\AthletesApplication\AthletesApplication\AthletesApplication.Domain\obj\Debug\net8.0\AthletesApplication.Domain.dll
+C:\Users\spase\Downloads\AthletesApplication\AthletesApplication\AthletesApplication.Domain\obj\Debug\net8.0\refint\AthletesApplication.Domain.dll
+C:\Users\spase\Downloads\AthletesApplication\AthletesApplication\AthletesApplication.Domain\obj\Debug\net8.0\AthletesApplication.Domain.pdb
+C:\Users\spase\Downloads\AthletesApplication\AthletesApplication\AthletesApplication.Domain\obj\Debug\net8.0\ref\AthletesApplication.Domain.dll

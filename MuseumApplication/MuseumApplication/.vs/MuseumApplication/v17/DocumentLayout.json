@@ -1,0 +1,495 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_MuseumApplication.Web_a55b7aa3_d724_48b9_87e8_d24b8c0d82d2/True/SqlTable/dbo.VisitorHistories.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_MuseumApplication.Web_a55b7aa3_d724_48b9_87e8_d24b8c0d82d2/True/SqlTable/dbo.VisitorInHistories.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\MuseumApplication.Repository\\Data\\Migrations\\20250527162532_AddedInDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MuseumApplication.Repository\\Data\\Migrations\\20250527162532_AddedInDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637E48AE-D3AB-47D6-88A8-574CCF66BACD}|MuseumApplication.Repository\\MuseumApplication.Repository.csproj|c:\\users\\spase\\downloads\\museumapplication\\museumapplication\\museumapplication.repository\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637E48AE-D3AB-47D6-88A8-574CCF66BACD}|MuseumApplication.Repository\\MuseumApplication.Repository.csproj|solutionrelative:museumapplication.repository\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637E48AE-D3AB-47D6-88A8-574CCF66BACD}|MuseumApplication.Repository\\MuseumApplication.Repository.csproj|c:\\users\\spase\\downloads\\museumapplication\\museumapplication\\museumapplication.repository\\museumapplication.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{637E48AE-D3AB-47D6-88A8-574CCF66BACD}|MuseumApplication.Repository\\MuseumApplication.Repository.csproj|solutionrelative:museumapplication.repository\\museumapplication.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAF287A-0912-44AF-97A3-3E3899D19F05}|MuseumApplication.Domain\\MuseumApplication.Domain.csproj|c:\\users\\spase\\downloads\\museumapplication\\museumapplication\\museumapplication.domain\\museumapplication.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5BAF287A-0912-44AF-97A3-3E3899D19F05}|MuseumApplication.Domain\\MuseumApplication.Domain.csproj|solutionrelative:museumapplication.domain\\museumapplication.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAF287A-0912-44AF-97A3-3E3899D19F05}|MuseumApplication.Domain\\MuseumApplication.Domain.csproj|c:\\users\\spase\\downloads\\museumapplication\\museumapplication\\museumapplication.domain\\domainmodels\\visitorinhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAF287A-0912-44AF-97A3-3E3899D19F05}|MuseumApplication.Domain\\MuseumApplication.Domain.csproj|solutionrelative:museumapplication.domain\\domainmodels\\visitorinhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAF287A-0912-44AF-97A3-3E3899D19F05}|MuseumApplication.Domain\\MuseumApplication.Domain.csproj|c:\\users\\spase\\downloads\\museumapplication\\museumapplication\\museumapplication.domain\\domainmodels\\visitorhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAF287A-0912-44AF-97A3-3E3899D19F05}|MuseumApplication.Domain\\MuseumApplication.Domain.csproj|solutionrelative:museumapplication.domain\\domainmodels\\visitorhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\MuseumApplication.Repository\\Data\\Migrations\\20250527162343_AddNewModels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MuseumApplication.Repository\\Data\\Migrations\\20250527162343_AddNewModels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0FE6A3-CE0B-4162-829C-E94543D72336}|MuseumApplication.Web\\MuseumApplication.Web.csproj|c:\\users\\spase\\downloads\\museumapplication\\museumapplication\\museumapplication.web\\controllers\\visitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC0FE6A3-CE0B-4162-829C-E94543D72336}|MuseumApplication.Web\\MuseumApplication.Web.csproj|solutionrelative:museumapplication.web\\controllers\\visitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0FE6A3-CE0B-4162-829C-E94543D72336}|MuseumApplication.Web\\MuseumApplication.Web.csproj|c:\\users\\spase\\downloads\\museumapplication\\museumapplication\\museumapplication.web\\controllers\\visitorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC0FE6A3-CE0B-4162-829C-E94543D72336}|MuseumApplication.Web\\MuseumApplication.Web.csproj|solutionrelative:museumapplication.web\\controllers\\visitorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0FE6A3-CE0B-4162-829C-E94543D72336}|MuseumApplication.Web\\MuseumApplication.Web.csproj|c:\\users\\spase\\downloads\\museumapplication\\museumapplication\\museumapplication.web\\views\\visits\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC0FE6A3-CE0B-4162-829C-E94543D72336}|MuseumApplication.Web\\MuseumApplication.Web.csproj|solutionrelative:museumapplication.web\\views\\visits\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F05EB6A-099A-4FDA-9188-151148DCFDA7}|MuseumApplication.Service\\MuseumApplication.Service.csproj|c:\\users\\spase\\downloads\\museumapplication\\museumapplication\\museumapplication.service\\implementation\\visitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F05EB6A-099A-4FDA-9188-151148DCFDA7}|MuseumApplication.Service\\MuseumApplication.Service.csproj|solutionrelative:museumapplication.service\\implementation\\visitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0FE6A3-CE0B-4162-829C-E94543D72336}|MuseumApplication.Web\\MuseumApplication.Web.csproj|c:\\users\\spase\\downloads\\museumapplication\\museumapplication\\museumapplication.web\\views\\visitors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC0FE6A3-CE0B-4162-829C-E94543D72336}|MuseumApplication.Web\\MuseumApplication.Web.csproj|solutionrelative:museumapplication.web\\views\\visitors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0FE6A3-CE0B-4162-829C-E94543D72336}|MuseumApplication.Web\\MuseumApplication.Web.csproj|c:\\users\\spase\\downloads\\museumapplication\\museumapplication\\museumapplication.web\\views\\visits\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC0FE6A3-CE0B-4162-829C-E94543D72336}|MuseumApplication.Web\\MuseumApplication.Web.csproj|solutionrelative:museumapplication.web\\views\\visits\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_MuseumApplication.Web_a55b7aa3_d724_48b9_87e8_d24b8c0d82d2/True/SqlTable/dbo.Visits.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_MuseumApplication.Web_a55b7aa3_d724_48b9_87e8_d24b8c0d82d2/True/SqlTable/dbo.Visitors.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAF287A-0912-44AF-97A3-3E3899D19F05}|MuseumApplication.Domain\\MuseumApplication.Domain.csproj|c:\\users\\spase\\downloads\\museumapplication\\museumapplication\\museumapplication.domain\\domainmodels\\visit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAF287A-0912-44AF-97A3-3E3899D19F05}|MuseumApplication.Domain\\MuseumApplication.Domain.csproj|solutionrelative:museumapplication.domain\\domainmodels\\visit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F05EB6A-099A-4FDA-9188-151148DCFDA7}|MuseumApplication.Service\\MuseumApplication.Service.csproj|c:\\users\\spase\\downloads\\museumapplication\\museumapplication\\museumapplication.service\\implementation\\visitorhistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F05EB6A-099A-4FDA-9188-151148DCFDA7}|MuseumApplication.Service\\MuseumApplication.Service.csproj|solutionrelative:museumapplication.service\\implementation\\visitorhistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0FE6A3-CE0B-4162-829C-E94543D72336}|MuseumApplication.Web\\MuseumApplication.Web.csproj|c:\\users\\spase\\downloads\\museumapplication\\museumapplication\\museumapplication.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC0FE6A3-CE0B-4162-829C-E94543D72336}|MuseumApplication.Web\\MuseumApplication.Web.csproj|solutionrelative:museumapplication.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F05EB6A-099A-4FDA-9188-151148DCFDA7}|MuseumApplication.Service\\MuseumApplication.Service.csproj|c:\\users\\spase\\downloads\\museumapplication\\museumapplication\\museumapplication.service\\interface\\ivisitorhistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F05EB6A-099A-4FDA-9188-151148DCFDA7}|MuseumApplication.Service\\MuseumApplication.Service.csproj|solutionrelative:museumapplication.service\\interface\\ivisitorhistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAF287A-0912-44AF-97A3-3E3899D19F05}|MuseumApplication.Domain\\MuseumApplication.Domain.csproj|c:\\users\\spase\\downloads\\museumapplication\\museumapplication\\museumapplication.domain\\domainmodels\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAF287A-0912-44AF-97A3-3E3899D19F05}|MuseumApplication.Domain\\MuseumApplication.Domain.csproj|solutionrelative:museumapplication.domain\\domainmodels\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0FE6A3-CE0B-4162-829C-E94543D72336}|MuseumApplication.Web\\MuseumApplication.Web.csproj|c:\\users\\spase\\downloads\\museumapplication\\museumapplication\\museumapplication.web\\views\\visitorhistories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC0FE6A3-CE0B-4162-829C-E94543D72336}|MuseumApplication.Web\\MuseumApplication.Web.csproj|solutionrelative:museumapplication.web\\views\\visitorhistories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0FE6A3-CE0B-4162-829C-E94543D72336}|MuseumApplication.Web\\MuseumApplication.Web.csproj|c:\\users\\spase\\downloads\\museumapplication\\museumapplication\\museumapplication.web\\controllers\\visitorhistoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC0FE6A3-CE0B-4162-829C-E94543D72336}|MuseumApplication.Web\\MuseumApplication.Web.csproj|solutionrelative:museumapplication.web\\controllers\\visitorhistoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F05EB6A-099A-4FDA-9188-151148DCFDA7}|MuseumApplication.Service\\MuseumApplication.Service.csproj|c:\\users\\spase\\downloads\\museumapplication\\museumapplication\\museumapplication.service\\interface\\ivisitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F05EB6A-099A-4FDA-9188-151148DCFDA7}|MuseumApplication.Service\\MuseumApplication.Service.csproj|solutionrelative:museumapplication.service\\interface\\ivisitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F05EB6A-099A-4FDA-9188-151148DCFDA7}|MuseumApplication.Service\\MuseumApplication.Service.csproj|c:\\users\\spase\\downloads\\museumapplication\\museumapplication\\museumapplication.service\\interface\\ivisitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F05EB6A-099A-4FDA-9188-151148DCFDA7}|MuseumApplication.Service\\MuseumApplication.Service.csproj|solutionrelative:museumapplication.service\\interface\\ivisitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 285,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.VisitorHistories [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_MuseumApplication.Web_a55b7aa3_d724_48b9_87e8_d24b8c0d82d2/True/SqlTable/dbo.VisitorHistories.sql",
+              "ToolTip": "dbo.VisitorHistories [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-27T16:25:59.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.VisitorInHistories [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_MuseumApplication.Web_a55b7aa3_d724_48b9_87e8_d24b8c0d82d2/True/SqlTable/dbo.VisitorInHistories.sql",
+              "ToolTip": "dbo.VisitorInHistories [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-27T16:25:52.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250527162532_AddedInDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\MuseumApplication.Repository\\Data\\Migrations\\20250527162532_AddedInDbContext.cs",
+              "RelativeDocumentMoniker": "MuseumApplication.Repository\\Data\\Migrations\\20250527162532_AddedInDbContext.cs",
+              "ToolTip": "C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\MuseumApplication.Repository\\Data\\Migrations\\20250527162532_AddedInDbContext.cs",
+              "RelativeToolTip": "MuseumApplication.Repository\\Data\\Migrations\\20250527162532_AddedInDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T16:25:32.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\MuseumApplication.Repository\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MuseumApplication.Repository\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\MuseumApplication.Repository\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MuseumApplication.Repository\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBUAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T16:24:36.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MuseumApplication.Repository",
+              "DocumentMoniker": "C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\MuseumApplication.Repository\\MuseumApplication.Repository.csproj",
+              "RelativeDocumentMoniker": "MuseumApplication.Repository\\MuseumApplication.Repository.csproj",
+              "ToolTip": "C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\MuseumApplication.Repository\\MuseumApplication.Repository.csproj",
+              "RelativeToolTip": "MuseumApplication.Repository\\MuseumApplication.Repository.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-27T16:24:29.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MuseumApplication.Domain",
+              "DocumentMoniker": "C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\MuseumApplication.Domain\\MuseumApplication.Domain.csproj",
+              "RelativeDocumentMoniker": "MuseumApplication.Domain\\MuseumApplication.Domain.csproj",
+              "ToolTip": "C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\MuseumApplication.Domain\\MuseumApplication.Domain.csproj",
+              "RelativeToolTip": "MuseumApplication.Domain\\MuseumApplication.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-27T16:24:26.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VisitorInHistory.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\MuseumApplication.Domain\\DomainModels\\VisitorInHistory.cs",
+              "RelativeDocumentMoniker": "MuseumApplication.Domain\\DomainModels\\VisitorInHistory.cs",
+              "ToolTip": "C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\MuseumApplication.Domain\\DomainModels\\VisitorInHistory.cs",
+              "RelativeToolTip": "MuseumApplication.Domain\\DomainModels\\VisitorInHistory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T16:24:17.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250527162343_AddNewModels.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\MuseumApplication.Repository\\Data\\Migrations\\20250527162343_AddNewModels.cs",
+              "RelativeDocumentMoniker": "MuseumApplication.Repository\\Data\\Migrations\\20250527162343_AddNewModels.cs",
+              "ToolTip": "C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\MuseumApplication.Repository\\Data\\Migrations\\20250527162343_AddNewModels.cs",
+              "RelativeToolTip": "MuseumApplication.Repository\\Data\\Migrations\\20250527162343_AddNewModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T16:23:43.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "VisitorHistoryService.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\MuseumApplication.Service\\Implementation\\VisitorHistoryService.cs",
+              "RelativeDocumentMoniker": "MuseumApplication.Service\\Implementation\\VisitorHistoryService.cs",
+              "ToolTip": "C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\MuseumApplication.Service\\Implementation\\VisitorHistoryService.cs",
+              "RelativeToolTip": "MuseumApplication.Service\\Implementation\\VisitorHistoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T16:11:52.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IVisitorHistoryService.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\MuseumApplication.Service\\Interface\\IVisitorHistoryService.cs",
+              "RelativeDocumentMoniker": "MuseumApplication.Service\\Interface\\IVisitorHistoryService.cs",
+              "ToolTip": "C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\MuseumApplication.Service\\Interface\\IVisitorHistoryService.cs",
+              "RelativeToolTip": "MuseumApplication.Service\\Interface\\IVisitorHistoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T16:11:46.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\MuseumApplication.Web\\Views\\Visits\\Create.cshtml",
+              "RelativeDocumentMoniker": "MuseumApplication.Web\\Views\\Visits\\Create.cshtml",
+              "ToolTip": "C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\MuseumApplication.Web\\Views\\Visits\\Create.cshtml",
+              "RelativeToolTip": "MuseumApplication.Web\\Views\\Visits\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T16:10:23.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\MuseumApplication.Web\\Views\\Visitors\\Index.cshtml",
+              "RelativeDocumentMoniker": "MuseumApplication.Web\\Views\\Visitors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\MuseumApplication.Web\\Views\\Visitors\\Index.cshtml",
+              "RelativeToolTip": "MuseumApplication.Web\\Views\\Visitors\\Index.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T16:09:37.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VisitService.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\MuseumApplication.Service\\Implementation\\VisitService.cs",
+              "RelativeDocumentMoniker": "MuseumApplication.Service\\Implementation\\VisitService.cs",
+              "ToolTip": "C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\MuseumApplication.Service\\Implementation\\VisitService.cs",
+              "RelativeToolTip": "MuseumApplication.Service\\Implementation\\VisitService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T16:09:07.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VisitsController.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\MuseumApplication.Web\\Controllers\\VisitsController.cs",
+              "RelativeDocumentMoniker": "MuseumApplication.Web\\Controllers\\VisitsController.cs",
+              "ToolTip": "C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\MuseumApplication.Web\\Controllers\\VisitsController.cs",
+              "RelativeToolTip": "MuseumApplication.Web\\Controllers\\VisitsController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAkwEwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T16:08:25.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\MuseumApplication.Web\\Views\\Visits\\Index.cshtml",
+              "RelativeDocumentMoniker": "MuseumApplication.Web\\Views\\Visits\\Index.cshtml",
+              "ToolTip": "C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\MuseumApplication.Web\\Views\\Visits\\Index.cshtml",
+              "RelativeToolTip": "MuseumApplication.Web\\Views\\Visits\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T15:32:16.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VisitorHistory.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\MuseumApplication.Domain\\DomainModels\\VisitorHistory.cs",
+              "RelativeDocumentMoniker": "MuseumApplication.Domain\\DomainModels\\VisitorHistory.cs",
+              "ToolTip": "C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\MuseumApplication.Domain\\DomainModels\\VisitorHistory.cs",
+              "RelativeToolTip": "MuseumApplication.Domain\\DomainModels\\VisitorHistory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T15:56:07.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\MuseumApplication.Web\\Program.cs",
+              "RelativeDocumentMoniker": "MuseumApplication.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\MuseumApplication.Web\\Program.cs",
+              "RelativeToolTip": "MuseumApplication.Web\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T16:12:56.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Visit.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\MuseumApplication.Domain\\DomainModels\\Visit.cs",
+              "RelativeDocumentMoniker": "MuseumApplication.Domain\\DomainModels\\Visit.cs",
+              "ToolTip": "C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\MuseumApplication.Domain\\DomainModels\\Visit.cs",
+              "RelativeToolTip": "MuseumApplication.Domain\\DomainModels\\Visit.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T16:16:16.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VisitorsController.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\MuseumApplication.Web\\Controllers\\VisitorsController.cs",
+              "RelativeDocumentMoniker": "MuseumApplication.Web\\Controllers\\VisitorsController.cs",
+              "ToolTip": "C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\MuseumApplication.Web\\Controllers\\VisitorsController.cs",
+              "RelativeToolTip": "MuseumApplication.Web\\Controllers\\VisitorsController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T16:08:05.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "dbo.Visitors [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_MuseumApplication.Web_a55b7aa3_d724_48b9_87e8_d24b8c0d82d2/True/SqlTable/dbo.Visitors.sql",
+              "ToolTip": "dbo.Visitors [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-27T16:18:34.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "dbo.Visits [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_MuseumApplication.Web_a55b7aa3_d724_48b9_87e8_d24b8c0d82d2/True/SqlTable/dbo.Visits.sql",
+              "ToolTip": "dbo.Visits [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-27T16:18:41.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Visitor.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\MuseumApplication.Domain\\DomainModels\\Visitor.cs",
+              "RelativeDocumentMoniker": "MuseumApplication.Domain\\DomainModels\\Visitor.cs",
+              "ToolTip": "C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\MuseumApplication.Domain\\DomainModels\\Visitor.cs",
+              "RelativeToolTip": "MuseumApplication.Domain\\DomainModels\\Visitor.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T16:06:44.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\MuseumApplication.Web\\Views\\VisitorHistories\\Details.cshtml",
+              "RelativeDocumentMoniker": "MuseumApplication.Web\\Views\\VisitorHistories\\Details.cshtml",
+              "ToolTip": "C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\MuseumApplication.Web\\Views\\VisitorHistories\\Details.cshtml",
+              "RelativeToolTip": "MuseumApplication.Web\\Views\\VisitorHistories\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T15:59:32.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "VisitorHistoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\MuseumApplication.Web\\Controllers\\VisitorHistoriesController.cs",
+              "RelativeDocumentMoniker": "MuseumApplication.Web\\Controllers\\VisitorHistoriesController.cs",
+              "ToolTip": "C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\MuseumApplication.Web\\Controllers\\VisitorHistoriesController.cs",
+              "RelativeToolTip": "MuseumApplication.Web\\Controllers\\VisitorHistoriesController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T15:51:43.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IVisitService.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\MuseumApplication.Service\\Interface\\IVisitService.cs",
+              "RelativeDocumentMoniker": "MuseumApplication.Service\\Interface\\IVisitService.cs",
+              "ToolTip": "C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\MuseumApplication.Service\\Interface\\IVisitService.cs",
+              "RelativeToolTip": "MuseumApplication.Service\\Interface\\IVisitService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T15:41:17.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IVisitorService.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\MuseumApplication.Service\\Interface\\IVisitorService.cs",
+              "RelativeDocumentMoniker": "MuseumApplication.Service\\Interface\\IVisitorService.cs",
+              "ToolTip": "C:\\Users\\spase\\Downloads\\MuseumApplication\\MuseumApplication\\MuseumApplication.Service\\Interface\\IVisitorService.cs",
+              "RelativeToolTip": "MuseumApplication.Service\\Interface\\IVisitorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T15:41:16.384Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 831,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 115,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

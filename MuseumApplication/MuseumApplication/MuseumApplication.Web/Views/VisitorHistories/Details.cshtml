@@ -1,0 +1,50 @@
+﻿@model MuseumApplication.Domain.DomainModels.VisitorHistory
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+
+<!-- TODO: Create Table for VisitorHistory -->
+<table class="table">
+    <!-- Look at the table from any Index page for help -->
+    <!-- Iterate throught Model.VisitorsInHistory -->
+    <!-- Display: Visitor Name, Visitor Last Name, Membership Type-->
+    <thead>
+        <tr>
+            <th>
+                Visitor Name
+            </th>
+            <th>
+                Visitor Last Name
+            </th>
+            <th>
+                Membership Type
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in Model.VisitorInHistories)
+        {
+            <tr>
+                <td>
+                    @item.Visitor.FirstName
+                </td>
+                <td>
+                    @item.Visitor.LastName
+                </td>
+                <td>
+                    @item.Visitor.MembershipType
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+<!-- TODO: Display Total Count -->
+<div>
+    <p>Total Count: @Model.VisitorInHistories.Count</p>
+</div>
