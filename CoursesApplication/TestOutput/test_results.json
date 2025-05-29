@@ -4,7 +4,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "OnionArchitecture",
     "IsPassed": true,
-    "ExecutedAt": "2025-05-25T13:54:48.8773051+02:00",
+    "ExecutedAt": "2025-05-29T16:01:58.4361305+02:00",
     "ErrorMessage": null,
     "Points": 10
   },
@@ -13,7 +13,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "OnionArchitecture",
     "IsPassed": false,
-    "ExecutedAt": "2025-05-25T13:54:48.9263693+02:00",
+    "ExecutedAt": "2025-05-29T16:01:58.4827415+02:00",
     "ErrorMessage": "Could not find ApplicationDbContext or any DbContext subclass. Check if Entity Framework Core is properly referenced.",
     "Points": 10
   },
@@ -22,7 +22,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "OnionArchitecture",
     "IsPassed": false,
-    "ExecutedAt": "2025-05-25T13:54:48.9474316+02:00",
+    "ExecutedAt": "2025-05-29T16:01:58.503161+02:00",
     "ErrorMessage": "Could not find ApplicationDbContext or any DbContext subclass. Check if Entity Framework Core is properly referenced.",
     "Points": 10
   },
@@ -31,7 +31,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "CoursesController",
     "IsPassed": true,
-    "ExecutedAt": "2025-05-25T13:54:50.0661286+02:00",
+    "ExecutedAt": "2025-05-29T16:01:59.5040985+02:00",
     "ErrorMessage": null,
     "Points": 5
   },
@@ -40,7 +40,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "CoursesController",
     "IsPassed": true,
-    "ExecutedAt": "2025-05-25T13:54:50.4808369+02:00",
+    "ExecutedAt": "2025-05-29T16:01:59.8880323+02:00",
     "ErrorMessage": null,
     "Points": 5
   },
@@ -49,7 +49,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "CoursesController",
     "IsPassed": true,
-    "ExecutedAt": "2025-05-25T13:54:50.8150296+02:00",
+    "ExecutedAt": "2025-05-29T16:02:00.1481852+02:00",
     "ErrorMessage": null,
     "Points": 5
   },
@@ -58,7 +58,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "CoursesController",
     "IsPassed": true,
-    "ExecutedAt": "2025-05-25T13:54:51.1248708+02:00",
+    "ExecutedAt": "2025-05-29T16:02:00.4449527+02:00",
     "ErrorMessage": null,
     "Points": 5
   },
@@ -67,7 +67,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "CoursesController",
     "IsPassed": true,
-    "ExecutedAt": "2025-05-25T13:54:51.4402912+02:00",
+    "ExecutedAt": "2025-05-29T16:02:00.7678377+02:00",
     "ErrorMessage": null,
     "Points": 5
   },
@@ -76,7 +76,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "CoursesController",
     "IsPassed": true,
-    "ExecutedAt": "2025-05-25T13:54:51.7209979+02:00",
+    "ExecutedAt": "2025-05-29T16:02:01.0643069+02:00",
     "ErrorMessage": null,
     "Points": 5
   },
@@ -85,7 +85,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "CoursesController",
     "IsPassed": true,
-    "ExecutedAt": "2025-05-25T13:54:52.0592536+02:00",
+    "ExecutedAt": "2025-05-29T16:02:01.3903407+02:00",
     "ErrorMessage": null,
     "Points": 5
   },
@@ -94,7 +94,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "CoursesController",
     "IsPassed": true,
-    "ExecutedAt": "2025-05-25T13:54:52.3769919+02:00",
+    "ExecutedAt": "2025-05-29T16:02:01.6915166+02:00",
     "ErrorMessage": null,
     "Points": 5
   },
@@ -103,7 +103,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "CoursesController",
     "IsPassed": true,
-    "ExecutedAt": "2025-05-25T13:54:52.6662613+02:00",
+    "ExecutedAt": "2025-05-29T16:02:01.9638858+02:00",
     "ErrorMessage": null,
     "Points": 5
   },
@@ -112,7 +112,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "CoursesController",
     "IsPassed": true,
-    "ExecutedAt": "2025-05-25T13:54:52.9807127+02:00",
+    "ExecutedAt": "2025-05-29T16:02:02.2688131+02:00",
     "ErrorMessage": null,
     "Points": 5
   },
@@ -121,7 +121,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "SemestersController",
     "IsPassed": true,
-    "ExecutedAt": "2025-05-25T13:54:53.3145296+02:00",
+    "ExecutedAt": "2025-05-29T16:02:02.569804+02:00",
     "ErrorMessage": null,
     "Points": 5
   },
@@ -130,7 +130,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "SemestersController",
     "IsPassed": true,
-    "ExecutedAt": "2025-05-25T13:54:53.6367358+02:00",
+    "ExecutedAt": "2025-05-29T16:02:02.8670408+02:00",
     "ErrorMessage": null,
     "Points": 5
   },
@@ -139,7 +139,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "SemestersController",
     "IsPassed": true,
-    "ExecutedAt": "2025-05-25T13:54:53.968886+02:00",
+    "ExecutedAt": "2025-05-29T16:02:03.1702282+02:00",
     "ErrorMessage": null,
     "Points": 5
   },
@@ -148,7 +148,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "SemestersController",
     "IsPassed": true,
-    "ExecutedAt": "2025-05-25T13:54:54.297462+02:00",
+    "ExecutedAt": "2025-05-29T16:02:03.4778697+02:00",
     "ErrorMessage": null,
     "Points": 5
   },
@@ -157,7 +157,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "SemestersController",
     "IsPassed": true,
-    "ExecutedAt": "2025-05-25T13:54:54.6163926+02:00",
+    "ExecutedAt": "2025-05-29T16:02:03.779872+02:00",
     "ErrorMessage": null,
     "Points": 5
   },
@@ -166,7 +166,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "SemestersController",
     "IsPassed": true,
-    "ExecutedAt": "2025-05-25T13:54:54.9253847+02:00",
+    "ExecutedAt": "2025-05-29T16:02:04.0587162+02:00",
     "ErrorMessage": null,
     "Points": 5
   },
@@ -175,7 +175,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "SemestersController",
     "IsPassed": true,
-    "ExecutedAt": "2025-05-25T13:54:55.2528542+02:00",
+    "ExecutedAt": "2025-05-29T16:02:04.3599132+02:00",
     "ErrorMessage": null,
     "Points": 5
   },
@@ -184,7 +184,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "SemestersController",
     "IsPassed": true,
-    "ExecutedAt": "2025-05-25T13:54:55.5954832+02:00",
+    "ExecutedAt": "2025-05-29T16:02:04.6309529+02:00",
     "ErrorMessage": null,
     "Points": 5
   },
@@ -193,7 +193,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "SemestersController",
     "IsPassed": true,
-    "ExecutedAt": "2025-05-25T13:54:55.895629+02:00",
+    "ExecutedAt": "2025-05-29T16:02:04.9343584+02:00",
     "ErrorMessage": null,
     "Points": 5
   },
@@ -202,7 +202,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "SemestersController",
     "IsPassed": true,
-    "ExecutedAt": "2025-05-25T13:54:56.2186592+02:00",
+    "ExecutedAt": "2025-05-29T16:02:05.2103081+02:00",
     "ErrorMessage": null,
     "Points": 5
   },
@@ -211,7 +211,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "StudentOnCourse",
     "IsPassed": true,
-    "ExecutedAt": "2025-05-25T13:54:56.5308185+02:00",
+    "ExecutedAt": "2025-05-29T16:02:05.482109+02:00",
     "ErrorMessage": null,
     "Points": 5
   },
@@ -220,7 +220,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "StudentOnCourse",
     "IsPassed": true,
-    "ExecutedAt": "2025-05-25T13:54:56.8508932+02:00",
+    "ExecutedAt": "2025-05-29T16:02:05.7603341+02:00",
     "ErrorMessage": null,
     "Points": 5
   },
@@ -229,7 +229,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "StudentOnCourse",
     "IsPassed": true,
-    "ExecutedAt": "2025-05-25T13:54:57.1620418+02:00",
+    "ExecutedAt": "2025-05-29T16:02:06.0069292+02:00",
     "ErrorMessage": null,
     "Points": 5
   },
@@ -238,7 +238,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "StudentOnCourse",
     "IsPassed": true,
-    "ExecutedAt": "2025-05-25T13:54:57.4998689+02:00",
+    "ExecutedAt": "2025-05-29T16:02:06.2911268+02:00",
     "ErrorMessage": null,
     "Points": 5
   },
@@ -247,7 +247,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "StudentOnCourse",
     "IsPassed": true,
-    "ExecutedAt": "2025-05-25T13:54:57.7960632+02:00",
+    "ExecutedAt": "2025-05-29T16:02:06.5434161+02:00",
     "ErrorMessage": null,
     "Points": 5
   },
@@ -256,7 +256,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "StudentOnCourse",
     "IsPassed": true,
-    "ExecutedAt": "2025-05-25T13:54:58.14601+02:00",
+    "ExecutedAt": "2025-05-29T16:02:06.8194939+02:00",
     "ErrorMessage": null,
     "Points": 5
   },
@@ -265,7 +265,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "CourseService",
     "IsPassed": true,
-    "ExecutedAt": "2025-05-25T13:54:58.3194869+02:00",
+    "ExecutedAt": "2025-05-29T16:02:06.9475947+02:00",
     "ErrorMessage": null,
     "Points": 5
   },
@@ -274,7 +274,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "CourseService",
     "IsPassed": true,
-    "ExecutedAt": "2025-05-25T13:54:58.404696+02:00",
+    "ExecutedAt": "2025-05-29T16:02:07.0113385+02:00",
     "ErrorMessage": null,
     "Points": 5
   },
@@ -283,7 +283,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "CourseService",
     "IsPassed": true,
-    "ExecutedAt": "2025-05-25T13:54:58.4882701+02:00",
+    "ExecutedAt": "2025-05-29T16:02:07.0743777+02:00",
     "ErrorMessage": null,
     "Points": 5
   },
@@ -292,7 +292,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "CourseService",
     "IsPassed": true,
-    "ExecutedAt": "2025-05-25T13:54:58.5699308+02:00",
+    "ExecutedAt": "2025-05-29T16:02:07.1452377+02:00",
     "ErrorMessage": null,
     "Points": 5
   },
@@ -301,7 +301,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "CourseService",
     "IsPassed": true,
-    "ExecutedAt": "2025-05-25T13:54:58.6574948+02:00",
+    "ExecutedAt": "2025-05-29T16:02:07.2137148+02:00",
     "ErrorMessage": null,
     "Points": 5
   },
@@ -310,7 +310,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "CourseService",
     "IsPassed": true,
-    "ExecutedAt": "2025-05-25T13:54:58.7231366+02:00",
+    "ExecutedAt": "2025-05-29T16:02:07.2785196+02:00",
     "ErrorMessage": null,
     "Points": 5
   },
@@ -318,9 +318,9 @@
     "TestName": "DataFetchServiceIntegrationTests.FetchCoursesFromApi_Should_Return_Valid_Courses",
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "DataFetchService",
-    "IsPassed": false,
-    "ExecutedAt": "2025-05-25T13:55:00.9610689+02:00",
-    "ErrorMessage": "No connection could be made because the target machine actively refused it. (is-lab4.ddns.net:8080)",
+    "IsPassed": true,
+    "ExecutedAt": "2025-05-29T16:02:07.4414963+02:00",
+    "ErrorMessage": null,
     "Points": 5
   },
   {
@@ -328,7 +328,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "SemesterService",
     "IsPassed": true,
-    "ExecutedAt": "2025-05-25T13:55:01.040861+02:00",
+    "ExecutedAt": "2025-05-29T16:02:07.5083642+02:00",
     "ErrorMessage": null,
     "Points": 5
   },
@@ -337,7 +337,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "SemesterService",
     "IsPassed": true,
-    "ExecutedAt": "2025-05-25T13:55:01.119224+02:00",
+    "ExecutedAt": "2025-05-29T16:02:07.5742548+02:00",
     "ErrorMessage": null,
     "Points": 5
   },
@@ -346,7 +346,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "SemesterService",
     "IsPassed": true,
-    "ExecutedAt": "2025-05-25T13:55:01.202821+02:00",
+    "ExecutedAt": "2025-05-29T16:02:07.6562688+02:00",
     "ErrorMessage": null,
     "Points": 5
   },
@@ -355,7 +355,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "SemesterService",
     "IsPassed": true,
-    "ExecutedAt": "2025-05-25T13:55:01.2684005+02:00",
+    "ExecutedAt": "2025-05-29T16:02:07.7212506+02:00",
     "ErrorMessage": null,
     "Points": 5
   },
@@ -364,7 +364,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "SemesterService",
     "IsPassed": true,
-    "ExecutedAt": "2025-05-25T13:55:01.3383809+02:00",
+    "ExecutedAt": "2025-05-29T16:02:07.7871654+02:00",
     "ErrorMessage": null,
     "Points": 5
   },
@@ -373,7 +373,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "SemesterService",
     "IsPassed": true,
-    "ExecutedAt": "2025-05-25T13:55:01.4146334+02:00",
+    "ExecutedAt": "2025-05-29T16:02:07.8523204+02:00",
     "ErrorMessage": null,
     "Points": 5
   },
@@ -382,7 +382,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "StudentOnCourseService",
     "IsPassed": true,
-    "ExecutedAt": "2025-05-25T13:55:01.5134311+02:00",
+    "ExecutedAt": "2025-05-29T16:02:07.9260832+02:00",
     "ErrorMessage": null,
     "Points": 5
   },
@@ -391,7 +391,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "StudentOnCourseService",
     "IsPassed": true,
-    "ExecutedAt": "2025-05-25T13:55:01.5917724+02:00",
+    "ExecutedAt": "2025-05-29T16:02:07.9923493+02:00",
     "ErrorMessage": null,
     "Points": 5
   },
@@ -400,7 +400,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "StudentOnCourseService",
     "IsPassed": true,
-    "ExecutedAt": "2025-05-25T13:55:01.6834411+02:00",
+    "ExecutedAt": "2025-05-29T16:02:08.0692293+02:00",
     "ErrorMessage": null,
     "Points": 5
   },
@@ -409,7 +409,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "StudentOnCourseService",
     "IsPassed": true,
-    "ExecutedAt": "2025-05-25T13:55:01.7674455+02:00",
+    "ExecutedAt": "2025-05-29T16:02:08.1402369+02:00",
     "ErrorMessage": null,
     "Points": 5
   },
@@ -418,7 +418,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "StudentOnCourseService",
     "IsPassed": true,
-    "ExecutedAt": "2025-05-25T13:55:01.8349981+02:00",
+    "ExecutedAt": "2025-05-29T16:02:08.213386+02:00",
     "ErrorMessage": null,
     "Points": 5
   },
@@ -427,7 +427,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "StudentOnCourseService",
     "IsPassed": true,
-    "ExecutedAt": "2025-05-25T13:55:01.9015987+02:00",
+    "ExecutedAt": "2025-05-29T16:02:08.2816233+02:00",
     "ErrorMessage": null,
     "Points": 5
   },
@@ -436,7 +436,7 @@
     "StudentId": "YOUR_INDEX_HERE",
     "TestCategory": "StudentOnCourseService",
     "IsPassed": true,
-    "ExecutedAt": "2025-05-25T13:55:01.9690384+02:00",
+    "ExecutedAt": "2025-05-29T16:02:08.3503299+02:00",
     "ErrorMessage": null,
     "Points": 5
   }

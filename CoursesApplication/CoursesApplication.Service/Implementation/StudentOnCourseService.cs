@@ -13,48 +13,42 @@ namespace CoursesApplication.Service.Implementation
     public class StudentOnCourseService : IStudentOnCourseService
     {
         private readonly IRepository<StudentOnCourse> _studentOnCourseRepository;
-        private readonly ISemesterService _semesterService;
-        private readonly ICourseService _courseService;
 
-        public StudentOnCourseService(IRepository<StudentOnCourse> studentOnCourseRepository, ISemesterService semesterService, ICourseService courseService)
+        public StudentOnCourseService(IRepository<StudentOnCourse> studentOnCourseRepository)
         {
             _studentOnCourseRepository = studentOnCourseRepository;
-            _semesterService = semesterService;
-            _courseService = courseService;
         }
 
         public StudentOnCourse DeleteById(Guid id)
         {
-            var studentOnCourse = GetById(id);
+            var studentOnCourse = this.GetById(id);
             return _studentOnCourseRepository.Delete(studentOnCourse);
         }
 
         public StudentOnCourse EnrollOnCourse(string studentId, Guid courseId, Guid semesterId, bool reEnrolled)
         {
-            var semester = _semesterService.GetById(semesterId);
-            var course = _courseService.GetById(courseId);
-            var studentOnCourse = new StudentOnCourse()
+            var newStudentOnCourse = new StudentOnCourse
             {
-                ReEnrollment = reEnrolled,
-                SemesterId = semesterId,
-                CourseId = courseId,
+                Id = Guid.NewGuid(),
                 StudentId = studentId,
+                CourseId = courseId,
+                SemesterId = semesterId,
+                ReEnrollment = reEnrolled
             };
-            return _studentOnCourseRepository.Insert(studentOnCourse);
+            return _studentOnCourseRepository.Insert(newStudentOnCourse);
         }
 
         public List<StudentOnCourse> GetAll()
         {
             return _studentOnCourseRepository.GetAll(selector: x => x).ToList();
-                
         }
 
         public List<StudentOnCourse> GetAllByPassengerId(string passengerId)
         {
             return _studentOnCourseRepository.GetAll(selector: x => x,
                 predicate: x => x.StudentId == passengerId,
-                include: x => x.Include(y => y.Semester)
-                .Include(y => y.Course)).ToList();
+                include: x => x.Include(y => y.Course)
+                .Include(y => y.Semester)).ToList();
         }
 
         public StudentOnCourse? GetById(Guid id)

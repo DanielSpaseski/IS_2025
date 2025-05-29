@@ -1,0 +1,49 @@
+﻿@model JobsApplication.Domain.DomainModels.Profession
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+<h4>Profession</h4>
+
+<!-- TODO: Create Table for Profession -->
+<!-- Look at the table from any Index page for help -->
+<!-- Iterate throught Model.CandidatedInProfession -->
+<!-- Display: Candidate FullName, Candidate DateOfBirth, Candidate PhoneNumber -->
+<table class="table">
+    <thead>
+        <tr>
+            <td>
+                Candidate FullName
+            </td>
+            <td>
+                Candidate DateOfBirth
+            </td>
+            <td>
+                Candidate PhoneNumber
+            </td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in Model.CandidatesInProfession)
+        {
+            <tr>
+                <td>
+                    @item.Candidate.FullName
+                </td>
+                <td>
+                    @item.Candidate.DateOfBirth
+                </td>
+                <td>
+                    @item.Candidate.PhoneNumber
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<!-- TODO: Display Total Number of Candidates In Profession-->
+<div>
+    <p>Total Candidates: @Model.CandidatesInProfession.Count </p>
+</div>

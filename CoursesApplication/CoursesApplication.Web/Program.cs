@@ -35,8 +35,6 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddScoped<PasswordHasher<Student>>();
 
 builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
-builder.Services.AddScoped<IStudentRepository, StudentRepository>();
-
 builder.Services.AddTransient<ICourseService, CourseService>();
 builder.Services.AddTransient<ISemesterService, SemesterService>();
 builder.Services.AddTransient<IStudentOnCourseService, StudentOnCourseService>();

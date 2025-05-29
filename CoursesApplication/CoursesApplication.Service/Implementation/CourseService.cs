@@ -21,7 +21,7 @@ namespace CoursesApplication.Service.Implementation
 
         public Course DeleteById(Guid id)
         {
-            var course = GetById(id);
+            var course = this.GetById(id);
             return _courseRepository.Delete(course);
         }
 
@@ -34,9 +34,10 @@ namespace CoursesApplication.Service.Implementation
         {
             return _courseRepository.Get(selector: x => x,
                 predicate: x => x.Id == id,
-                include: x => x
-                .Include(y => y.EnrolledStudents).ThenInclude(z => z.Semester)
-                .Include(y => y.EnrolledStudents).ThenInclude(z => z.Student));
+                include: x => x.Include(y => y.EnrolledStudents)
+                .ThenInclude(z => z.Student)
+                .Include(y => y.EnrolledStudents)
+                .ThenInclude(z => z.Semester));
         }
 
         public Course Insert(Course course)

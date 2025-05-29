@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n9UEUfHjvkGWqEYyM7PTPEMrM61Ytd1s4SlPpGKvTa1cPwodqletz9cCJjXD315p5kJ+DgIUi2d+QmDrbjUROg==",
+  "dgSpecHash": "L9eR1HkZkgosMtP4tNdUsckPY8UsRBsvPyeRHsB98t+nC8RZ8NCj3nAhFBZMY8nC3xynaWjPJ939hnbRwuPGWQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\spase\\Downloads\\CoursesApplication\\TestExamIS.Tests\\TestExamIS.Tests.csproj",
+  "projectFilePath": "D:\\IS_2025\\CoursesApplication\\TestExamIS.Tests\\TestExamIS.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\spase\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\spase\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -1,0 +1,692 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66480366-085D-4634-918F-761D7107F387}|JobsApplication.Service\\JobsApplication.Service.csproj|c:\\users\\sfili\\desktop\\starters\\jobsapplication\\jobsapplication\\jobsapplication.service\\implementation\\professionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66480366-085D-4634-918F-761D7107F387}|JobsApplication.Service\\JobsApplication.Service.csproj|solutionrelative:jobsapplication.service\\implementation\\professionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CD2C03-6703-488D-A878-1D9794CCFD98}|JobsApplication.Web\\JobsApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\jobsapplication\\jobsapplication\\jobsapplication.web\\views\\professions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01CD2C03-6703-488D-A878-1D9794CCFD98}|JobsApplication.Web\\JobsApplication.Web.csproj|solutionrelative:jobsapplication.web\\views\\professions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A31BCA17-58F6-4125-88D2-90FCBACE2802}|JobsApplication.Domain\\JobsApplication.Domain.csproj|c:\\users\\sfili\\desktop\\starters\\jobsapplication\\jobsapplication\\jobsapplication.domain\\domainmodels\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A31BCA17-58F6-4125-88D2-90FCBACE2802}|JobsApplication.Domain\\JobsApplication.Domain.csproj|solutionrelative:jobsapplication.domain\\domainmodels\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66480366-085D-4634-918F-761D7107F387}|JobsApplication.Service\\JobsApplication.Service.csproj|c:\\users\\sfili\\desktop\\starters\\jobsapplication\\jobsapplication\\jobsapplication.service\\implementation\\interviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66480366-085D-4634-918F-761D7107F387}|JobsApplication.Service\\JobsApplication.Service.csproj|solutionrelative:jobsapplication.service\\implementation\\interviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66480366-085D-4634-918F-761D7107F387}|JobsApplication.Service\\JobsApplication.Service.csproj|c:\\users\\sfili\\desktop\\starters\\jobsapplication\\jobsapplication\\jobsapplication.service\\interface\\iprofessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66480366-085D-4634-918F-761D7107F387}|JobsApplication.Service\\JobsApplication.Service.csproj|solutionrelative:jobsapplication.service\\interface\\iprofessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CD2C03-6703-488D-A878-1D9794CCFD98}|JobsApplication.Web\\JobsApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\jobsapplication\\jobsapplication\\jobsapplication.web\\controllers\\professionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01CD2C03-6703-488D-A878-1D9794CCFD98}|JobsApplication.Web\\JobsApplication.Web.csproj|solutionrelative:jobsapplication.web\\controllers\\professionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CD2C03-6703-488D-A878-1D9794CCFD98}|JobsApplication.Web\\JobsApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\jobsapplication\\jobsapplication\\jobsapplication.web\\views\\applications\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01CD2C03-6703-488D-A878-1D9794CCFD98}|JobsApplication.Web\\JobsApplication.Web.csproj|solutionrelative:jobsapplication.web\\views\\applications\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CD2C03-6703-488D-A878-1D9794CCFD98}|JobsApplication.Web\\JobsApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\jobsapplication\\jobsapplication\\jobsapplication.web\\controllers\\applicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01CD2C03-6703-488D-A878-1D9794CCFD98}|JobsApplication.Web\\JobsApplication.Web.csproj|solutionrelative:jobsapplication.web\\controllers\\applicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66480366-085D-4634-918F-761D7107F387}|JobsApplication.Service\\JobsApplication.Service.csproj|c:\\users\\sfili\\desktop\\starters\\jobsapplication\\jobsapplication\\jobsapplication.service\\implementation\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66480366-085D-4634-918F-761D7107F387}|JobsApplication.Service\\JobsApplication.Service.csproj|solutionrelative:jobsapplication.service\\implementation\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CD2C03-6703-488D-A878-1D9794CCFD98}|JobsApplication.Web\\JobsApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\jobsapplication\\jobsapplication\\jobsapplication.web\\controllers\\interviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01CD2C03-6703-488D-A878-1D9794CCFD98}|JobsApplication.Web\\JobsApplication.Web.csproj|solutionrelative:jobsapplication.web\\controllers\\interviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CD2C03-6703-488D-A878-1D9794CCFD98}|JobsApplication.Web\\JobsApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\jobsapplication\\jobsapplication\\jobsapplication.web\\controllers\\candidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01CD2C03-6703-488D-A878-1D9794CCFD98}|JobsApplication.Web\\JobsApplication.Web.csproj|solutionrelative:jobsapplication.web\\controllers\\candidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CD2C03-6703-488D-A878-1D9794CCFD98}|JobsApplication.Web\\JobsApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\jobsapplication\\jobsapplication\\jobsapplication.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01CD2C03-6703-488D-A878-1D9794CCFD98}|JobsApplication.Web\\JobsApplication.Web.csproj|solutionrelative:jobsapplication.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F13F41D-3431-463D-9A9F-B7599F9D2487}|JobsApplication.Repository\\JobsApplication.Repository.csproj|c:\\users\\sfili\\desktop\\starters\\jobsapplication\\jobsapplication\\jobsapplication.repository\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F13F41D-3431-463D-9A9F-B7599F9D2487}|JobsApplication.Repository\\JobsApplication.Repository.csproj|solutionrelative:jobsapplication.repository\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A31BCA17-58F6-4125-88D2-90FCBACE2802}|JobsApplication.Domain\\JobsApplication.Domain.csproj|c:\\users\\sfili\\desktop\\starters\\jobsapplication\\jobsapplication\\jobsapplication.domain\\domainmodels\\candidateinprofession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A31BCA17-58F6-4125-88D2-90FCBACE2802}|JobsApplication.Domain\\JobsApplication.Domain.csproj|solutionrelative:jobsapplication.domain\\domainmodels\\candidateinprofession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A31BCA17-58F6-4125-88D2-90FCBACE2802}|JobsApplication.Domain\\JobsApplication.Domain.csproj|c:\\users\\sfili\\desktop\\starters\\jobsapplication\\jobsapplication\\jobsapplication.domain\\domainmodels\\profession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A31BCA17-58F6-4125-88D2-90FCBACE2802}|JobsApplication.Domain\\JobsApplication.Domain.csproj|solutionrelative:jobsapplication.domain\\domainmodels\\profession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A31BCA17-58F6-4125-88D2-90FCBACE2802}|JobsApplication.Domain\\JobsApplication.Domain.csproj|c:\\users\\sfili\\desktop\\starters\\jobsapplication\\jobsapplication\\jobsapplication.domain\\domainmodels\\jobposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A31BCA17-58F6-4125-88D2-90FCBACE2802}|JobsApplication.Domain\\JobsApplication.Domain.csproj|solutionrelative:jobsapplication.domain\\domainmodels\\jobposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A31BCA17-58F6-4125-88D2-90FCBACE2802}|JobsApplication.Domain\\JobsApplication.Domain.csproj|c:\\users\\sfili\\desktop\\starters\\jobsapplication\\jobsapplication\\jobsapplication.domain\\identitymodels\\jobsapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A31BCA17-58F6-4125-88D2-90FCBACE2802}|JobsApplication.Domain\\JobsApplication.Domain.csproj|solutionrelative:jobsapplication.domain\\identitymodels\\jobsapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CD2C03-6703-488D-A878-1D9794CCFD98}|JobsApplication.Web\\JobsApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\jobsapplication\\jobsapplication\\jobsapplication.web\\views\\interviews\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01CD2C03-6703-488D-A878-1D9794CCFD98}|JobsApplication.Web\\JobsApplication.Web.csproj|solutionrelative:jobsapplication.web\\views\\interviews\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CD2C03-6703-488D-A878-1D9794CCFD98}|JobsApplication.Web\\JobsApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\jobsapplication\\jobsapplication\\jobsapplication.web\\views\\interviews\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01CD2C03-6703-488D-A878-1D9794CCFD98}|JobsApplication.Web\\JobsApplication.Web.csproj|solutionrelative:jobsapplication.web\\views\\interviews\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CD2C03-6703-488D-A878-1D9794CCFD98}|JobsApplication.Web\\JobsApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\jobsapplication\\jobsapplication\\jobsapplication.web\\views\\interviews\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01CD2C03-6703-488D-A878-1D9794CCFD98}|JobsApplication.Web\\JobsApplication.Web.csproj|solutionrelative:jobsapplication.web\\views\\interviews\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CD2C03-6703-488D-A878-1D9794CCFD98}|JobsApplication.Web\\JobsApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\jobsapplication\\jobsapplication\\jobsapplication.web\\views\\candidates\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01CD2C03-6703-488D-A878-1D9794CCFD98}|JobsApplication.Web\\JobsApplication.Web.csproj|solutionrelative:jobsapplication.web\\views\\candidates\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CD2C03-6703-488D-A878-1D9794CCFD98}|JobsApplication.Web\\JobsApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\jobsapplication\\jobsapplication\\jobsapplication.web\\views\\candidates\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01CD2C03-6703-488D-A878-1D9794CCFD98}|JobsApplication.Web\\JobsApplication.Web.csproj|solutionrelative:jobsapplication.web\\views\\candidates\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CD2C03-6703-488D-A878-1D9794CCFD98}|JobsApplication.Web\\JobsApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\jobsapplication\\jobsapplication\\jobsapplication.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01CD2C03-6703-488D-A878-1D9794CCFD98}|JobsApplication.Web\\JobsApplication.Web.csproj|solutionrelative:jobsapplication.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CD2C03-6703-488D-A878-1D9794CCFD98}|JobsApplication.Web\\JobsApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\jobsapplication\\jobsapplication\\jobsapplication.web\\views\\candidates\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01CD2C03-6703-488D-A878-1D9794CCFD98}|JobsApplication.Web\\JobsApplication.Web.csproj|solutionrelative:jobsapplication.web\\views\\candidates\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A31BCA17-58F6-4125-88D2-90FCBACE2802}|JobsApplication.Domain\\JobsApplication.Domain.csproj|c:\\users\\sfili\\desktop\\starters\\jobsapplication\\jobsapplication\\jobsapplication.domain\\domainmodels\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A31BCA17-58F6-4125-88D2-90FCBACE2802}|JobsApplication.Domain\\JobsApplication.Domain.csproj|solutionrelative:jobsapplication.domain\\domainmodels\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CD2C03-6703-488D-A878-1D9794CCFD98}|JobsApplication.Web\\JobsApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\jobsapplication\\jobsapplication\\jobsapplication.web\\controllers\\jobpositionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01CD2C03-6703-488D-A878-1D9794CCFD98}|JobsApplication.Web\\JobsApplication.Web.csproj|solutionrelative:jobsapplication.web\\controllers\\jobpositionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CD2C03-6703-488D-A878-1D9794CCFD98}|JobsApplication.Web\\JobsApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\jobsapplication\\jobsapplication\\jobsapplication.web\\views\\applications\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01CD2C03-6703-488D-A878-1D9794CCFD98}|JobsApplication.Web\\JobsApplication.Web.csproj|solutionrelative:jobsapplication.web\\views\\applications\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CD2C03-6703-488D-A878-1D9794CCFD98}|JobsApplication.Web\\JobsApplication.Web.csproj|c:\\users\\sfili\\desktop\\starters\\jobsapplication\\jobsapplication\\jobsapplication.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01CD2C03-6703-488D-A878-1D9794CCFD98}|JobsApplication.Web\\JobsApplication.Web.csproj|solutionrelative:jobsapplication.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66480366-085D-4634-918F-761D7107F387}|JobsApplication.Service\\JobsApplication.Service.csproj|c:\\users\\sfili\\desktop\\starters\\jobsapplication\\jobsapplication\\jobsapplication.service\\implementation\\jobpositionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66480366-085D-4634-918F-761D7107F387}|JobsApplication.Service\\JobsApplication.Service.csproj|solutionrelative:jobsapplication.service\\implementation\\jobpositionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66480366-085D-4634-918F-761D7107F387}|JobsApplication.Service\\JobsApplication.Service.csproj|c:\\users\\sfili\\desktop\\starters\\jobsapplication\\jobsapplication\\jobsapplication.service\\interface\\ijobpositionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66480366-085D-4634-918F-761D7107F387}|JobsApplication.Service\\JobsApplication.Service.csproj|solutionrelative:jobsapplication.service\\interface\\ijobpositionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66480366-085D-4634-918F-761D7107F387}|JobsApplication.Service\\JobsApplication.Service.csproj|c:\\users\\sfili\\desktop\\starters\\jobsapplication\\jobsapplication\\jobsapplication.service\\interface\\icandidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66480366-085D-4634-918F-761D7107F387}|JobsApplication.Service\\JobsApplication.Service.csproj|solutionrelative:jobsapplication.service\\interface\\icandidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66480366-085D-4634-918F-761D7107F387}|JobsApplication.Service\\JobsApplication.Service.csproj|c:\\users\\sfili\\desktop\\starters\\jobsapplication\\jobsapplication\\jobsapplication.service\\implementation\\candidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66480366-085D-4634-918F-761D7107F387}|JobsApplication.Service\\JobsApplication.Service.csproj|solutionrelative:jobsapplication.service\\implementation\\candidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66480366-085D-4634-918F-761D7107F387}|JobsApplication.Service\\JobsApplication.Service.csproj|c:\\users\\sfili\\desktop\\starters\\jobsapplication\\jobsapplication\\jobsapplication.service\\interface\\iapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66480366-085D-4634-918F-761D7107F387}|JobsApplication.Service\\JobsApplication.Service.csproj|solutionrelative:jobsapplication.service\\interface\\iapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66480366-085D-4634-918F-761D7107F387}|JobsApplication.Service\\JobsApplication.Service.csproj|c:\\users\\sfili\\desktop\\starters\\jobsapplication\\jobsapplication\\jobsapplication.service\\interface\\iinterviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66480366-085D-4634-918F-761D7107F387}|JobsApplication.Service\\JobsApplication.Service.csproj|solutionrelative:jobsapplication.service\\interface\\iinterviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F13F41D-3431-463D-9A9F-B7599F9D2487}|JobsApplication.Repository\\JobsApplication.Repository.csproj|c:\\users\\sfili\\desktop\\starters\\jobsapplication\\jobsapplication\\jobsapplication.repository\\data\\migrations\\20250503094404_addusertoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F13F41D-3431-463D-9A9F-B7599F9D2487}|JobsApplication.Repository\\JobsApplication.Repository.csproj|solutionrelative:jobsapplication.repository\\data\\migrations\\20250503094404_addusertoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A31BCA17-58F6-4125-88D2-90FCBACE2802}|JobsApplication.Domain\\JobsApplication.Domain.csproj|c:\\users\\sfili\\desktop\\starters\\jobsapplication\\jobsapplication\\jobsapplication.domain\\domainmodels\\interview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A31BCA17-58F6-4125-88D2-90FCBACE2802}|JobsApplication.Domain\\JobsApplication.Domain.csproj|solutionrelative:jobsapplication.domain\\domainmodels\\interview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A31BCA17-58F6-4125-88D2-90FCBACE2802}|JobsApplication.Domain\\JobsApplication.Domain.csproj|c:\\users\\sfili\\desktop\\starters\\jobsapplication\\jobsapplication\\jobsapplication.domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A31BCA17-58F6-4125-88D2-90FCBACE2802}|JobsApplication.Domain\\JobsApplication.Domain.csproj|solutionrelative:jobsapplication.domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F13F41D-3431-463D-9A9F-B7599F9D2487}|JobsApplication.Repository\\JobsApplication.Repository.csproj|c:\\users\\sfili\\desktop\\starters\\jobsapplication\\jobsapplication\\jobsapplication.repository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F13F41D-3431-463D-9A9F-B7599F9D2487}|JobsApplication.Repository\\JobsApplication.Repository.csproj|solutionrelative:jobsapplication.repository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F13F41D-3431-463D-9A9F-B7599F9D2487}|JobsApplication.Repository\\JobsApplication.Repository.csproj|c:\\users\\sfili\\desktop\\starters\\jobsapplication\\jobsapplication\\jobsapplication.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F13F41D-3431-463D-9A9F-B7599F9D2487}|JobsApplication.Repository\\JobsApplication.Repository.csproj|solutionrelative:jobsapplication.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 285,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Web\\Views\\Professions\\Details.cshtml",
+              "RelativeDocumentMoniker": "JobsApplication.Web\\Views\\Professions\\Details.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Web\\Views\\Professions\\Details.cshtml",
+              "RelativeToolTip": "JobsApplication.Web\\Views\\Professions\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T18:54:03.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProfessionService.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Service\\Implementation\\ProfessionService.cs",
+              "RelativeDocumentMoniker": "JobsApplication.Service\\Implementation\\ProfessionService.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Service\\Implementation\\ProfessionService.cs",
+              "RelativeToolTip": "JobsApplication.Service\\Implementation\\ProfessionService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T12:43:21.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProfessionService.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Service\\Interface\\IProfessionService.cs",
+              "RelativeDocumentMoniker": "JobsApplication.Service\\Interface\\IProfessionService.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Service\\Interface\\IProfessionService.cs",
+              "RelativeToolTip": "JobsApplication.Service\\Interface\\IProfessionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T12:42:55.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProfessionsController.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Web\\Controllers\\ProfessionsController.cs",
+              "RelativeDocumentMoniker": "JobsApplication.Web\\Controllers\\ProfessionsController.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Web\\Controllers\\ProfessionsController.cs",
+              "RelativeToolTip": "JobsApplication.Web\\Controllers\\ProfessionsController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T12:42:22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Repository\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "JobsApplication.Repository\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Repository\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "JobsApplication.Repository\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T12:41:04.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CandidateInProfession.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Domain\\DomainModels\\CandidateInProfession.cs",
+              "RelativeDocumentMoniker": "JobsApplication.Domain\\DomainModels\\CandidateInProfession.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Domain\\DomainModels\\CandidateInProfession.cs",
+              "RelativeToolTip": "JobsApplication.Domain\\DomainModels\\CandidateInProfession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T12:40:12.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Profession.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Domain\\DomainModels\\Profession.cs",
+              "RelativeDocumentMoniker": "JobsApplication.Domain\\DomainModels\\Profession.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Domain\\DomainModels\\Profession.cs",
+              "RelativeToolTip": "JobsApplication.Domain\\DomainModels\\Profession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T12:39:43.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Web\\Views\\Interviews\\Index.cshtml",
+              "RelativeDocumentMoniker": "JobsApplication.Web\\Views\\Interviews\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Web\\Views\\Interviews\\Index.cshtml",
+              "RelativeToolTip": "JobsApplication.Web\\Views\\Interviews\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T10:59:39.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Web\\Views\\Applications\\Index.cshtml",
+              "RelativeDocumentMoniker": "JobsApplication.Web\\Views\\Applications\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Web\\Views\\Applications\\Index.cshtml",
+              "RelativeToolTip": "JobsApplication.Web\\Views\\Applications\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T10:59:24.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Web\\Views\\Interviews\\Create.cshtml",
+              "RelativeDocumentMoniker": "JobsApplication.Web\\Views\\Interviews\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Web\\Views\\Interviews\\Create.cshtml",
+              "RelativeToolTip": "JobsApplication.Web\\Views\\Interviews\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T10:57:22.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Web\\Views\\Candidates\\Create.cshtml",
+              "RelativeDocumentMoniker": "JobsApplication.Web\\Views\\Candidates\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Web\\Views\\Candidates\\Create.cshtml",
+              "RelativeToolTip": "JobsApplication.Web\\Views\\Candidates\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T10:56:23.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "JobsApplication.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "JobsApplication.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T10:54:19.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Web\\Views\\Candidates\\Index.cshtml",
+              "RelativeDocumentMoniker": "JobsApplication.Web\\Views\\Candidates\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Web\\Views\\Candidates\\Index.cshtml",
+              "RelativeToolTip": "JobsApplication.Web\\Views\\Candidates\\Index.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T10:52:22.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Web\\Views\\Interviews\\Edit.cshtml",
+              "RelativeDocumentMoniker": "JobsApplication.Web\\Views\\Interviews\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Web\\Views\\Interviews\\Edit.cshtml",
+              "RelativeToolTip": "JobsApplication.Web\\Views\\Interviews\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T10:51:37.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Web\\Views\\Candidates\\Edit.cshtml",
+              "RelativeDocumentMoniker": "JobsApplication.Web\\Views\\Candidates\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Web\\Views\\Candidates\\Edit.cshtml",
+              "RelativeToolTip": "JobsApplication.Web\\Views\\Candidates\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T10:51:32.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Web\\Views\\Applications\\Create.cshtml",
+              "RelativeDocumentMoniker": "JobsApplication.Web\\Views\\Applications\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Web\\Views\\Applications\\Create.cshtml",
+              "RelativeToolTip": "JobsApplication.Web\\Views\\Applications\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T10:50:41.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InterviewsController.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Web\\Controllers\\InterviewsController.cs",
+              "RelativeDocumentMoniker": "JobsApplication.Web\\Controllers\\InterviewsController.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Web\\Controllers\\InterviewsController.cs",
+              "RelativeToolTip": "JobsApplication.Web\\Controllers\\InterviewsController.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAADwv4QAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:40:55.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "JobsApplication.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "JobsApplication.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:40:45.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CandidatesController.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Web\\Controllers\\CandidatesController.cs",
+              "RelativeDocumentMoniker": "JobsApplication.Web\\Controllers\\CandidatesController.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Web\\Controllers\\CandidatesController.cs",
+              "RelativeToolTip": "JobsApplication.Web\\Controllers\\CandidatesController.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAqwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:40:04.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "JobPositionsController.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Web\\Controllers\\JobPositionsController.cs",
+              "RelativeDocumentMoniker": "JobsApplication.Web\\Controllers\\JobPositionsController.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Web\\Controllers\\JobPositionsController.cs",
+              "RelativeToolTip": "JobsApplication.Web\\Controllers\\JobPositionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:04:54.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationsController.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Web\\Controllers\\ApplicationsController.cs",
+              "RelativeDocumentMoniker": "JobsApplication.Web\\Controllers\\ApplicationsController.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Web\\Controllers\\ApplicationsController.cs",
+              "RelativeToolTip": "JobsApplication.Web\\Controllers\\ApplicationsController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T09:58:35.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IJobPositionService.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Service\\Interface\\IJobPositionService.cs",
+              "RelativeDocumentMoniker": "JobsApplication.Service\\Interface\\IJobPositionService.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Service\\Interface\\IJobPositionService.cs",
+              "RelativeToolTip": "JobsApplication.Service\\Interface\\IJobPositionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T09:46:16.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IInterviewService.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Service\\Interface\\IInterviewService.cs",
+              "RelativeDocumentMoniker": "JobsApplication.Service\\Interface\\IInterviewService.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Service\\Interface\\IInterviewService.cs",
+              "RelativeToolTip": "JobsApplication.Service\\Interface\\IInterviewService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T09:46:12.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ICandidateService.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Service\\Interface\\ICandidateService.cs",
+              "RelativeDocumentMoniker": "JobsApplication.Service\\Interface\\ICandidateService.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Service\\Interface\\ICandidateService.cs",
+              "RelativeToolTip": "JobsApplication.Service\\Interface\\ICandidateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T09:46:07.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IApplicationService.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Service\\Interface\\IApplicationService.cs",
+              "RelativeDocumentMoniker": "JobsApplication.Service\\Interface\\IApplicationService.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Service\\Interface\\IApplicationService.cs",
+              "RelativeToolTip": "JobsApplication.Service\\Interface\\IApplicationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T09:45:56.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20250503094404_AddUserToApplication.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Repository\\Data\\Migrations\\20250503094404_AddUserToApplication.cs",
+              "RelativeDocumentMoniker": "JobsApplication.Repository\\Data\\Migrations\\20250503094404_AddUserToApplication.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Repository\\Data\\Migrations\\20250503094404_AddUserToApplication.cs",
+              "RelativeToolTip": "JobsApplication.Repository\\Data\\Migrations\\20250503094404_AddUserToApplication.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T09:44:05.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JobPosition.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Domain\\DomainModels\\JobPosition.cs",
+              "RelativeDocumentMoniker": "JobsApplication.Domain\\DomainModels\\JobPosition.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Domain\\DomainModels\\JobPosition.cs",
+              "RelativeToolTip": "JobsApplication.Domain\\DomainModels\\JobPosition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T09:41:41.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Interview.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Domain\\DomainModels\\Interview.cs",
+              "RelativeDocumentMoniker": "JobsApplication.Domain\\DomainModels\\Interview.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Domain\\DomainModels\\Interview.cs",
+              "RelativeToolTip": "JobsApplication.Domain\\DomainModels\\Interview.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T09:41:26.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Domain\\DomainModels\\Candidate.cs",
+              "RelativeDocumentMoniker": "JobsApplication.Domain\\DomainModels\\Candidate.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Domain\\DomainModels\\Candidate.cs",
+              "RelativeToolTip": "JobsApplication.Domain\\DomainModels\\Candidate.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T09:41:15.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JobsApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Domain\\IdentityModels\\JobsApplicationUser.cs",
+              "RelativeDocumentMoniker": "JobsApplication.Domain\\IdentityModels\\JobsApplicationUser.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Domain\\IdentityModels\\JobsApplicationUser.cs",
+              "RelativeToolTip": "JobsApplication.Domain\\IdentityModels\\JobsApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T09:40:56.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Domain\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "JobsApplication.Domain\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Domain\\BaseEntity.cs",
+              "RelativeToolTip": "JobsApplication.Domain\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T09:40:40.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Domain\\DomainModels\\Application.cs",
+              "RelativeDocumentMoniker": "JobsApplication.Domain\\DomainModels\\Application.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Domain\\DomainModels\\Application.cs",
+              "RelativeToolTip": "JobsApplication.Domain\\DomainModels\\Application.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T09:40:37.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Repository\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "JobsApplication.Repository\\Interface\\IRepository.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Repository\\Interface\\IRepository.cs",
+              "RelativeToolTip": "JobsApplication.Repository\\Interface\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T09:40:27.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Repository\\Implementation\\Repository.cs",
+              "RelativeDocumentMoniker": "JobsApplication.Repository\\Implementation\\Repository.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Repository\\Implementation\\Repository.cs",
+              "RelativeToolTip": "JobsApplication.Repository\\Implementation\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T09:40:15.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Web\\Program.cs",
+              "RelativeDocumentMoniker": "JobsApplication.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Web\\Program.cs",
+              "RelativeToolTip": "JobsApplication.Web\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T09:38:10.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "JobPositionService.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Service\\Implementation\\JobPositionService.cs",
+              "RelativeDocumentMoniker": "JobsApplication.Service\\Implementation\\JobPositionService.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Service\\Implementation\\JobPositionService.cs",
+              "RelativeToolTip": "JobsApplication.Service\\Implementation\\JobPositionService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T09:36:40.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InterviewService.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Service\\Implementation\\InterviewService.cs",
+              "RelativeDocumentMoniker": "JobsApplication.Service\\Implementation\\InterviewService.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Service\\Implementation\\InterviewService.cs",
+              "RelativeToolTip": "JobsApplication.Service\\Implementation\\InterviewService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T09:36:31.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CandidateService.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Service\\Implementation\\CandidateService.cs",
+              "RelativeDocumentMoniker": "JobsApplication.Service\\Implementation\\CandidateService.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Service\\Implementation\\CandidateService.cs",
+              "RelativeToolTip": "JobsApplication.Service\\Implementation\\CandidateService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T09:36:20.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationService.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Service\\Implementation\\ApplicationService.cs",
+              "RelativeDocumentMoniker": "JobsApplication.Service\\Implementation\\ApplicationService.cs",
+              "ToolTip": "C:\\Users\\sfili\\Desktop\\Starters\\JobsApplication\\JobsApplication\\JobsApplication.Service\\Implementation\\ApplicationService.cs",
+              "RelativeToolTip": "JobsApplication.Service\\Implementation\\ApplicationService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAgwDcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T09:36:09.737Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 831,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 115,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

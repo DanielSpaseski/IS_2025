@@ -21,29 +21,27 @@
             <th>
                 Semester
             </th>
-            <th>
-                
-            </th>
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Course.Name)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Course.Credits)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Semester.Name)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
-            </td>
-        </tr>
-}
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td>
+                    @item.Course.Name
+                </td>
+                <td>
+                    @item.Course.Credits
+                </td>
+                <td>
+                    @item.Course.SemesterType
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
     </tbody>
 </table>

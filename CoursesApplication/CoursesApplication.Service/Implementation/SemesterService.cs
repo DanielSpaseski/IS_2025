@@ -20,7 +20,7 @@ namespace CoursesApplication.Service.Implementation
 
         public Semester DeleteById(Guid id)
         {
-            var semester = GetById(id);
+            var semester = this.GetById(id);
             return _semesterRepository.Delete(semester);
         }
 
@@ -32,7 +32,7 @@ namespace CoursesApplication.Service.Implementation
         public Semester? GetById(Guid id)
         {
             return _semesterRepository.Get(selector: x => x,
-                predicate: x => x.Id == id);
+                predicate: x => x.Id == id);    
         }
 
         public Semester Insert(Semester flight)

@@ -13,18 +13,19 @@ namespace CoursesApplication.Web.Controllers
 {
     public class SemestersController : Controller
     {
-        private readonly ISemesterService _semesterService;
+        private readonly ISemesterService semesterService;
 
         public SemestersController(ISemesterService semesterService)
         {
-            _semesterService = semesterService;
+            this.semesterService = semesterService;
         }
+
 
 
         // GET: Semesters
         public IActionResult Index()
         {
-            return View(_semesterService.GetAll());
+            return View(semesterService.GetAll());
         }
 
         // GET: Semesters/Details/5
@@ -35,7 +36,7 @@ namespace CoursesApplication.Web.Controllers
                 return NotFound();
             }
 
-            var semester = _semesterService.GetById(id.Value);
+            var semester = semesterService.GetById(id.Value);
             if (semester == null)
             {
                 return NotFound();
@@ -59,7 +60,7 @@ namespace CoursesApplication.Web.Controllers
         {
             if (ModelState.IsValid)
             {
-                _semesterService.Insert(semester);
+                semesterService.Insert(semester);
                 return RedirectToAction(nameof(Index));
             }
             return View(semester);
@@ -73,7 +74,7 @@ namespace CoursesApplication.Web.Controllers
                 return NotFound();
             }
 
-            var semester = _semesterService.GetById(id.Value);
+            var semester = semesterService.GetById(id.Value);
             if (semester == null)
             {
                 return NotFound();
@@ -98,7 +99,7 @@ namespace CoursesApplication.Web.Controllers
             {
                 try
                 {
-                    _semesterService.Update(semester);
+                    semesterService.Update(semester);
                 }
                 catch (DbUpdateConcurrencyException)
                 {
@@ -124,7 +125,7 @@ namespace CoursesApplication.Web.Controllers
                 return NotFound();
             }
 
-            var semester = _semesterService.GetById(id.Value);
+            var semester = semesterService.GetById(id.Value);
             if (semester == null)
             {
                 return NotFound();
@@ -139,13 +140,13 @@ namespace CoursesApplication.Web.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult DeleteConfirmed(Guid id)
         {
-            _semesterService.DeleteById(id);
+            semesterService.DeleteById(id);
             return RedirectToAction(nameof(Index));
         }
 
         private bool SemesterExists(Guid id)
         {
-            return _semesterService.GetById(id) != null;
+            return semesterService.GetById(id) != null;
         }
     }
 }

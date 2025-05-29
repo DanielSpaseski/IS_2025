@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\spase\\Downloads\\CoursesApplication\\TestExamIS.Tests\\TestExamIS.Tests.csproj": {}
+    "D:\\IS_2025\\CoursesApplication\\TestExamIS.Tests\\TestExamIS.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Domain\\CoursesApplication.Domain.csproj": {
+    "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Domain\\CoursesApplication.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Domain\\CoursesApplication.Domain.csproj",
+        "projectUniqueName": "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Domain\\CoursesApplication.Domain.csproj",
         "projectName": "CoursesApplication.Domain",
-        "projectPath": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Domain\\CoursesApplication.Domain.csproj",
+        "projectPath": "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Domain\\CoursesApplication.Domain.csproj",
         "packagesPath": "C:\\Users\\spase\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Domain\\obj\\",
+        "outputPath": "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\spase\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -76,14 +76,14 @@
         }
       }
     },
-    "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Repository\\CoursesApplication.Repository.csproj": {
+    "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Repository\\CoursesApplication.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Repository\\CoursesApplication.Repository.csproj",
+        "projectUniqueName": "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Repository\\CoursesApplication.Repository.csproj",
         "projectName": "CoursesApplication.Repository",
-        "projectPath": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Repository\\CoursesApplication.Repository.csproj",
+        "projectPath": "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Repository\\CoursesApplication.Repository.csproj",
         "packagesPath": "C:\\Users\\spase\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Repository\\obj\\",
+        "outputPath": "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\spase\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -100,8 +100,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Domain\\CoursesApplication.Domain.csproj": {
-                "projectPath": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Domain\\CoursesApplication.Domain.csproj"
+              "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Domain\\CoursesApplication.Domain.csproj": {
+                "projectPath": "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Domain\\CoursesApplication.Domain.csproj"
               }
             }
           }
@@ -154,14 +154,14 @@
         }
       }
     },
-    "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Service\\CoursesApplication.Service.csproj": {
+    "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Service\\CoursesApplication.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Service\\CoursesApplication.Service.csproj",
+        "projectUniqueName": "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Service\\CoursesApplication.Service.csproj",
         "projectName": "CoursesApplication.Service",
-        "projectPath": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Service\\CoursesApplication.Service.csproj",
+        "projectPath": "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Service\\CoursesApplication.Service.csproj",
         "packagesPath": "C:\\Users\\spase\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Service\\obj\\",
+        "outputPath": "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\spase\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -178,11 +178,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Domain\\CoursesApplication.Domain.csproj": {
-                "projectPath": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Domain\\CoursesApplication.Domain.csproj"
+              "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Domain\\CoursesApplication.Domain.csproj": {
+                "projectPath": "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Domain\\CoursesApplication.Domain.csproj"
               },
-              "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Repository\\CoursesApplication.Repository.csproj": {
-                "projectPath": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Repository\\CoursesApplication.Repository.csproj"
+              "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Repository\\CoursesApplication.Repository.csproj": {
+                "projectPath": "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Repository\\CoursesApplication.Repository.csproj"
               }
             }
           }
@@ -227,14 +227,14 @@
         }
       }
     },
-    "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Web\\CoursesApplication.Web.csproj": {
+    "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Web\\CoursesApplication.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Web\\CoursesApplication.Web.csproj",
+        "projectUniqueName": "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Web\\CoursesApplication.Web.csproj",
         "projectName": "CoursesApplication.Web",
-        "projectPath": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Web\\CoursesApplication.Web.csproj",
+        "projectPath": "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Web\\CoursesApplication.Web.csproj",
         "packagesPath": "C:\\Users\\spase\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Web\\obj\\",
+        "outputPath": "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\spase\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -251,14 +251,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Domain\\CoursesApplication.Domain.csproj": {
-                "projectPath": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Domain\\CoursesApplication.Domain.csproj"
+              "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Domain\\CoursesApplication.Domain.csproj": {
+                "projectPath": "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Domain\\CoursesApplication.Domain.csproj"
               },
-              "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Repository\\CoursesApplication.Repository.csproj": {
-                "projectPath": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Repository\\CoursesApplication.Repository.csproj"
+              "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Repository\\CoursesApplication.Repository.csproj": {
+                "projectPath": "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Repository\\CoursesApplication.Repository.csproj"
               },
-              "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Service\\CoursesApplication.Service.csproj": {
-                "projectPath": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Service\\CoursesApplication.Service.csproj"
+              "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Service\\CoursesApplication.Service.csproj": {
+                "projectPath": "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Service\\CoursesApplication.Service.csproj"
               }
             }
           }
@@ -334,14 +334,14 @@
         }
       }
     },
-    "C:\\Users\\spase\\Downloads\\CoursesApplication\\TestExamIS.Tests\\TestExamIS.Tests.csproj": {
+    "D:\\IS_2025\\CoursesApplication\\TestExamIS.Tests\\TestExamIS.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\spase\\Downloads\\CoursesApplication\\TestExamIS.Tests\\TestExamIS.Tests.csproj",
+        "projectUniqueName": "D:\\IS_2025\\CoursesApplication\\TestExamIS.Tests\\TestExamIS.Tests.csproj",
         "projectName": "TestExamIS.Tests",
-        "projectPath": "C:\\Users\\spase\\Downloads\\CoursesApplication\\TestExamIS.Tests\\TestExamIS.Tests.csproj",
+        "projectPath": "D:\\IS_2025\\CoursesApplication\\TestExamIS.Tests\\TestExamIS.Tests.csproj",
         "packagesPath": "C:\\Users\\spase\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\spase\\Downloads\\CoursesApplication\\TestExamIS.Tests\\obj\\",
+        "outputPath": "D:\\IS_2025\\CoursesApplication\\TestExamIS.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\spase\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -358,14 +358,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Repository\\CoursesApplication.Repository.csproj": {
-                "projectPath": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Repository\\CoursesApplication.Repository.csproj"
+              "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Repository\\CoursesApplication.Repository.csproj": {
+                "projectPath": "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Repository\\CoursesApplication.Repository.csproj"
               },
-              "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Service\\CoursesApplication.Service.csproj": {
-                "projectPath": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Service\\CoursesApplication.Service.csproj"
+              "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Service\\CoursesApplication.Service.csproj": {
+                "projectPath": "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Service\\CoursesApplication.Service.csproj"
               },
-              "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Web\\CoursesApplication.Web.csproj": {
-                "projectPath": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Web\\CoursesApplication.Web.csproj"
+              "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Web\\CoursesApplication.Web.csproj": {
+                "projectPath": "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Web\\CoursesApplication.Web.csproj"
               }
             }
           }

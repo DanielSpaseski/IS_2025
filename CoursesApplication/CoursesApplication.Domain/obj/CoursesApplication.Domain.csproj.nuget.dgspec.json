@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Domain\\CoursesApplication.Domain.csproj": {}
+    "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Domain\\CoursesApplication.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Domain\\CoursesApplication.Domain.csproj": {
+    "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Domain\\CoursesApplication.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Domain\\CoursesApplication.Domain.csproj",
+        "projectUniqueName": "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Domain\\CoursesApplication.Domain.csproj",
         "projectName": "CoursesApplication.Domain",
-        "projectPath": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Domain\\CoursesApplication.Domain.csproj",
+        "projectPath": "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Domain\\CoursesApplication.Domain.csproj",
         "packagesPath": "C:\\Users\\spase\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Domain\\obj\\",
+        "outputPath": "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\spase\\AppData\\Roaming\\NuGet\\NuGet.Config",

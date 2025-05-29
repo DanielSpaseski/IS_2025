@@ -1838,11 +1838,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Service\\CoursesApplication.Service.csproj",
+      "projectUniqueName": "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Service\\CoursesApplication.Service.csproj",
       "projectName": "CoursesApplication.Service",
-      "projectPath": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Service\\CoursesApplication.Service.csproj",
+      "projectPath": "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Service\\CoursesApplication.Service.csproj",
       "packagesPath": "C:\\Users\\spase\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Service\\obj\\",
+      "outputPath": "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\spase\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1859,11 +1859,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Domain\\CoursesApplication.Domain.csproj": {
-              "projectPath": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Domain\\CoursesApplication.Domain.csproj"
+            "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Domain\\CoursesApplication.Domain.csproj": {
+              "projectPath": "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Domain\\CoursesApplication.Domain.csproj"
             },
-            "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Repository\\CoursesApplication.Repository.csproj": {
-              "projectPath": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Repository\\CoursesApplication.Repository.csproj"
+            "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Repository\\CoursesApplication.Repository.csproj": {
+              "projectPath": "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Repository\\CoursesApplication.Repository.csproj"
             }
           }
         }

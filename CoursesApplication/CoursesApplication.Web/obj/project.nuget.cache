@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g465d7IwEnTLLzbAp3Tl1jjWXmONjskW6AOIZqzPjNEsz/54/XqpiAaV/K/Bn79j9xY3+wHHIdx3j0tfoj7seg==",
+  "dgSpecHash": "pHRi6WrFs0EA3HPJHNVjAM3oEOIbPFkMxk9LYUmd1yyVpIPTibUNhi/alY7m5zcjLSs9f9Gm8bBZ9Cjx6iksrQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Web\\CoursesApplication.Web.csproj",
+  "projectFilePath": "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Web\\CoursesApplication.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\spase\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\spase\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

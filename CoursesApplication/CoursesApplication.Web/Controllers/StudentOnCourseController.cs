@@ -18,14 +18,15 @@ namespace CoursesApplication.Web.Controllers
     [Authorize]
     public class StudentOnCourseController : Controller
     {
-        private readonly IStudentOnCourseService _studentOnCourseService;
-        private readonly ISemesterService _semesterService;
+        private readonly IStudentOnCourseService studentOnCourseService;
+        private readonly ISemesterService semesterService;
 
         public StudentOnCourseController(IStudentOnCourseService studentOnCourseService, ISemesterService semesterService)
         {
-            _studentOnCourseService = studentOnCourseService;
-            _semesterService = semesterService;
+            this.studentOnCourseService = studentOnCourseService;
+            this.semesterService = semesterService;
         }
+
 
 
         // GET: StudentOnCourse
@@ -33,13 +34,13 @@ namespace CoursesApplication.Web.Controllers
         public IActionResult Index()
         {
             var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
-            return View(_studentOnCourseService.GetAllByPassengerId(userId));
+            return View(studentOnCourseService.GetAllByPassengerId(userId));
         }
 
         public IActionResult EnrollOnCourse(Guid courseId)
         {
             ViewData["CourseId"] = courseId;
-            ViewData["SemesterId"] = new SelectList(_semesterService.GetAll(), "Id", "Name");
+            ViewData["SemesterId"] = new SelectList(semesterService.GetAll(), "Id", "Name");
             return View();
         }
 
@@ -47,7 +48,7 @@ namespace CoursesApplication.Web.Controllers
         public IActionResult SubmitCourseEnrollemnt(EnrollOnCourseDto enrollOnCourseDto)
         {
             var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
-            _studentOnCourseService.EnrollOnCourse(userId, enrollOnCourseDto.CourseId, enrollOnCourseDto.SemesterId, enrollOnCourseDto.ReEnroll);
+            studentOnCourseService.EnrollOnCourse(userId, enrollOnCourseDto.CourseId, enrollOnCourseDto.SemesterId, enrollOnCourseDto.ReEnroll);
             return RedirectToAction("Index");
         }
     }

@@ -1,6 +1,6 @@
 {
-  "CoursesApplication.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Domain",
-  "CoursesApplication.Repository, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Repository",
-  "CoursesApplication.Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Service",
-  "CoursesApplication.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\spase\\Downloads\\CoursesApplication\\CoursesApplication.Web"
+  "CoursesApplication.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Domain",
+  "CoursesApplication.Repository, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Repository",
+  "CoursesApplication.Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Service",
+  "CoursesApplication.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\IS_2025\\CoursesApplication\\CoursesApplication.Web"
 }

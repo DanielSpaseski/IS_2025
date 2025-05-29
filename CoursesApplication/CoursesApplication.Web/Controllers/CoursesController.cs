@@ -14,21 +14,22 @@ namespace CoursesApplication.Web.Controllers
 {
     public class CoursesController : Controller
     {
-        private readonly ICourseService _courseService;
-        private readonly IDataFetchService _dataFetchService;
+        private readonly ICourseService courseService;
+        private readonly IDataFetchService dataFetchService;
 
         public CoursesController(ICourseService courseService, IDataFetchService dataFetchService)
         {
-            _courseService = courseService;
-            _dataFetchService = dataFetchService;
+            this.courseService = courseService;
+            this.dataFetchService = dataFetchService;
         }
+
 
 
 
         // GET: Courses
         public IActionResult Index()
         {
-            return View(_courseService.GetAll());
+            return View(courseService.GetAll());
         }
 
         // GET: Courses/Details/5
@@ -39,13 +40,14 @@ namespace CoursesApplication.Web.Controllers
                 return NotFound();
             }
 
-            var course = _courseService.GetById(id.Value);
+            var course = courseService.GetById(id.Value);
             if (course == null)
             {
                 return NotFound();
             }
 
             return View(course);
+
         }
 
         // GET: Courses/Create
@@ -63,7 +65,7 @@ namespace CoursesApplication.Web.Controllers
         {
             if (ModelState.IsValid)
             {
-                _courseService.Insert(course);
+                courseService.Insert(course);
                 return RedirectToAction(nameof(Index));
             }
             return View(course);
@@ -77,7 +79,7 @@ namespace CoursesApplication.Web.Controllers
                 return NotFound();
             }
 
-            var course = _courseService.GetById(id.Value);
+            var course = courseService.GetById(id.Value);
             if (course == null)
             {
                 return NotFound();
@@ -102,7 +104,7 @@ namespace CoursesApplication.Web.Controllers
             {
                 try
                 {
-                    _courseService.Update(course);
+                    courseService.Update(course);
                 }
                 catch (DbUpdateConcurrencyException)
                 {
@@ -116,6 +118,7 @@ namespace CoursesApplication.Web.Controllers
                     }
                 }
                 return RedirectToAction(nameof(Index));
+
             }
             return View(course);
         }
@@ -128,7 +131,7 @@ namespace CoursesApplication.Web.Controllers
                 return NotFound();
             }
 
-            var course = _courseService.GetById(id.Value);
+            var course = courseService.GetById(id.Value);
             if (course == null)
             {
                 return NotFound();
@@ -142,19 +145,19 @@ namespace CoursesApplication.Web.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult DeleteConfirmed(Guid id)
         {
-            _courseService.DeleteById(id);
+            courseService.DeleteById(id);
             return RedirectToAction(nameof(Index));
         }
 
         public async Task<IActionResult> FetchCourses()
         {
-            await _dataFetchService.FetchCoursesFromApi();
+            await dataFetchService.FetchCoursesFromApi();
             return RedirectToAction(nameof(Index));
         }
 
         private bool CourseExists(Guid id)
         {
-            return _courseService.GetById(id) != null;
+           return courseService.GetById(id) != null;
         }
     }
 }
